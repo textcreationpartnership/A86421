@@ -1,0 +1,900 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A garden inclosed, and Wisdom justified only of her children. Being two exercises, discovering the glory, beauty and perfection of the love of God to saints that are so comprehended, and in such a glorious inclosure: and also the sweet reflections in, and from saints, in iustifying wisdom: which were delivered at New-port Pagnell, about a yeare and a half since: for declaration whereof, the authour was then imprisoned, and since accused, for delivering of blasphemie. by Paul Hobson.</title>
+            <author>Hobson, Paul.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 141 KB of XML-encoded text transcribed from 60 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86421</idno>
+            <idno type="STC">Wing H2274</idno>
+            <idno type="STC">Thomason E1188_3</idno>
+            <idno type="STC">ESTC R208251</idno>
+            <idno type="EEBO-CITATION">99867216</idno>
+            <idno type="PROQUEST">99867216</idno>
+            <idno type="VID">119519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1188[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A garden inclosed, and Wisdom justified only of her children. Being two exercises, discovering the glory, beauty and perfection of the love of God to saints that are so comprehended, and in such a glorious inclosure: and also the sweet reflections in, and from saints, in iustifying wisdom: which were delivered at New-port Pagnell, about a yeare and a half since: for declaration whereof, the authour was then imprisoned, and since accused, for delivering of blasphemie. by Paul Hobson.</title>
+                  <author>Hobson, Paul.</author>
+               </titleStmt>
+               <extent>[6], 112 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iames and Ioseph Moxon, for Henry Overton, and are to be sold at his shop, in Popes-head Alley: and for Giles Calvert, at the spread Eagle, at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "may 29.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Love --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119519:1" rendition="simple:additions"/>
+            <p>A GARDEN INCLOSED, and WISDOM JUSTIFIED ONLY OF HER CHILDREN.</p>
+            <p>Being two <hi>Exerciſes,</hi> diſcovering the <hi>Glory, Beauty</hi> and <hi>Perfection</hi> of the <hi>Love</hi> of <hi>God</hi> to <hi>Saints</hi> that are ſo comprehended, and in ſuch a glorious incloſure: And alſo the ſweet <hi>Reflections</hi> in, and from <hi>Saints,</hi> in <hi>Iuſtifying Wiſdom:</hi> Which were delivered at <hi>New-port Pagnell,</hi> about a yeare and a half ſince: for <hi>declaration</hi> whereof, the <hi>Authour</hi> was then <hi>impriſoned,</hi> and ſince <hi>accuſed,</hi> for delivering of <hi>Blaſphemie.</hi>
+            </p>
+            <p>by <hi>Paul Hobſon.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Cant. 8.13.</hi>
+               </bibl>
+               <p>Thou that dwelleſt in the Gardens, the Compani<g ref="char:EOLhyphen"/>ons hearken to thy voice, cauſe me to hear it.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Mat. 11 19.</hi>
+               </bibl>
+               <p>But wiſdom is juſtified of her Children,</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts 4.20.</hi>
+               </bibl>
+               <p>For we cannot but ſpeak the things we have ſeen, and heard.</p>
+            </q>
+            <p>LONDON. Printed by <hi>Iames</hi> and <hi>Ioſeph Moxon,</hi> for <hi>Hen<g ref="char:EOLhyphen"/>ry Overton,</hi> and are to be ſold at his ſhop, in <hi>Popes-head Alley:</hi> and for <hi>Giles Cal<g ref="char:EOLhyphen"/>vert,</hi> at the <hi>ſpread Eagle,</hi> at the weſt end of <hi>Pauls.</hi> 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:119519:2"/>
+            <pb facs="tcp:119519:2"/>
+            <head>To the Impartiall Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Sonnes of <hi>Strife</hi> de<g ref="char:EOLhyphen"/>light in <hi>ſtriving;</hi> but my ſoule shall rather <hi>ſtrive to ſalve,</hi> then to <hi>encreaſe</hi> that ſore. Were myſelf alone con<g ref="char:EOLhyphen"/>cerned, I should rather paſſe over mens judgements, and ſentences with ſilence, then bring forth this my enſu<g ref="char:EOLhyphen"/>ing diſcourſe to a publicke view. It is now above a yeare and a halfe ſince for delivering of this following Treatiſe to ſome friends, in a quiet and peaceable manner, in <hi>New-port Pagnell,</hi> and <hi>Lathbury,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Puckinghamshire,</hi> I was im<g ref="char:EOLhyphen"/>priſoned by the Governour of <hi>New-port:</hi> But ſince that, not my ſelfe a<g ref="char:EOLhyphen"/>lone, but the Truth becomes a ſuffer<g ref="char:EOLhyphen"/>er, through the ſunday reproachfull Epithites of Mr <hi>Pryn,</hi> his brother
+<pb facs="tcp:119519:3"/>
+               <hi>Gang<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aena,</hi> and ſome that had a hand in my impriſonment; affirming that what I delivered there, was <hi>Blaſphe<g ref="char:EOLhyphen"/>my:</hi> But what shall I ſay? I could be (I hope, through the power of God) as voluminous to anſwer folly, as fol<g ref="char:EOLhyphen"/>ly is conſtantly voluminous againſt Truth: but to ſtrive to anſwer conten<g ref="char:EOLhyphen"/>tious ſpirits, gains no honour to truth, and that makes me unwilling to write an anſwer to ſuch men as they are. I could wish that all the ſons of <hi>Sion,</hi> and the <hi>Iſrael</hi> of the moſt high God, would rather ſpend their time in prayers and teares to God, for their deliverance out of that unexpreſſible and incomprehendible Priſon of darknes; as they have formerly ſought God for Mr <hi>Pryns</hi> deliverance out of his paſt impriſonment, which I my ſelfe Cordially deſire to do; for I had rather ſpend twenty dayes in tears for them, then ſpend one houre in giving
+<pb facs="tcp:119519:3"/>an anſwer to them; And had not the Vindication of truth commanded me, I should not have brought forth this, to the view of all men; but knowing that the ſonnes of Truth, are beſt able to judge of truth, makes mee bold to preſent this to them: deſiring thee (courteous Reader, whoſoever thou art) not to looke upon this, or me, or any ſcandalous reports of the peo<g ref="char:EOLhyphen"/>ple of God, through the multiply<g ref="char:EOLhyphen"/>ing Glaſſe of mens envious expreſſi<g ref="char:EOLhyphen"/>ons, of which theſe times are full; but lay it to the rule of Truth, and what truth you finde in it, give Truth the glory of it: But if you finde it within the Verge of Condemnation for <hi>Bla<g ref="char:EOLhyphen"/>ſphemy,</hi> (as Mr <hi>Pryn</hi> affirmes) let me beg that favour as to receive a lo<g ref="char:EOLhyphen"/>ving information (if thou canſt afford it) from thee. I muſt confeſſe I was ſomething unwilling in my ſelfe to come in publick view in this way, con<g ref="char:EOLhyphen"/>ceiving
+<pb facs="tcp:119519:4" rendition="simple:additions"/>myſelf the leoſt of all Saints, and not worthy to be a ſervant of the moſt high God: But in relation to the precedent reaſons recited, and ex<g ref="char:EOLhyphen"/>preſſed; and ſeeing God hath made me worthy to hold forth his Name: I cannot hold my peace, I muſt <hi>ſpeake the things that I have ſeene and heard:</hi> And therefore that <hi>Truth</hi> may be triumphant over <hi>Falshood,</hi> to the reall diſcovery of <hi>Blaſphemers</hi> and <hi>Blaſphemy,</hi> is the reall deſire of</p>
+            <closer>
+               <signed>Thine really <hi>PAUL HOBSON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>
+               <hi>Page</hi> 44. <hi>line</hi> 20. <hi>read</hi> he that knows God. <hi>p</hi> 68. <hi>l</hi> 21. <hi>for</hi> upholding, <hi>r</hi> upbraiding. <hi>p</hi> 71. <hi>l</hi> 9, <hi>for</hi> have <hi>r</hi> hath: <hi>p</hi> 74, <hi>l</hi> 23, 24: <hi>for</hi> afterward, <hi>r</hi> affirmed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:119519:4"/>
+            <head>A GARDEN encloſed: <hi>and</hi> WISDOME juſtified of Her CHILDREN.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>CANTICLES 8.13.</hi>
+                  </bibl>
+                  <p>Thou that dwellest in the Gardens, the Companions hearken to thy voice: cauſe me to hear it.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not at this time ſpeak any thing of the CANTICLES in general; which of all Scriptures is ſo full of the diſcove<g ref="char:EOLhyphen"/>ries of the Saints glorious priviledges in Chriſt; and ſweet relation and oneneſſe
+<pb n="2" facs="tcp:119519:5"/>with Chriſt; as alſo that ſweet ex<g ref="char:EOLhyphen"/>change of love that is betwixt Chriſt and them, which is ſo tranſcendent in the nature of it; ſo full of light and life in the operation of it; that no ſoule can truly declare it, but he that doth enjoy it: and he that doth declare this love from the enjoyment of love, is ſo ſwal<g ref="char:EOLhyphen"/>lowed up in love, that he is never wea<g ref="char:EOLhyphen"/>ry of declaring love; for love enjoyed is a ſufficient power, and life to the ſoul enjoying, to carry him out to declare it ſelf, by him that ſo enjoyes it.</p>
+            <p>And as this CANTICLES doth diſcover the exchange of Love betwixt Chriſt and the Saints; ſo it alſo diſcovereth the love that is in each Saint to one another: chap. 8.1, 2. and 8, 9. verſes.</p>
+            <p>But I ſhall ſay no more of the CANTI<g ref="char:EOLhyphen"/>CLES in general, but come to this verſe in particular: And in the Verſe there is theſe two things conſiderable.</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, A ſweet acknowledgement, or declaration.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, A ſweet deſire, or thirſt<g ref="char:EOLhyphen"/>ing.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, A ſweet acknowledgement, or
+<pb n="3" facs="tcp:119519:5"/>declaration; in theſe words, <hi>Thou that dwellest in the gardens, the companions heark<g ref="char:EOLhyphen"/>en to thy voice.</hi>
+            </p>
+            <p>Secondly, A ſweet deſire, or thirſt<g ref="char:EOLhyphen"/>ing; <milestone type="tcpmilestone" unit="unspecified" n="2"/> in theſe words, <hi>Cauſe me to hear it.</hi>
+            </p>
+            <p>
+               <note n="1" place="margin">A ſweet acknow<g ref="char:EOLhyphen"/>ledgement or declaration.</note> In the acknowledgement or declara<g ref="char:EOLhyphen"/>tion, conſider theſe things.</p>
+            <list>
+               <item>Firſt, The party acknowledging.</item>
+               <item>Secondly, The matter acknowledged.</item>
+               <item>Thirdly, The manner of the ac<g ref="char:EOLhyphen"/>knowledgement.</item>
+            </list>
+            <p>
+               <note n="1" place="margin">The par<g ref="char:EOLhyphen"/>ty acknow<g ref="char:EOLhyphen"/>ledging.</note> Firſt, The party acknowledging, and that is a ſoul poſſeſſed with Chriſt, who was able from the enjoyment of Chriſt, to underſtand as priviledges in him, ſo the ſweet and glorious communion the Saints have with him: And from thence we will obſerve this concluſion:</p>
+            <p>That they, <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label> and they onely are ſit to declare Chriſt,<note place="margin">Ioh. 14.17.19, 20, 21.</note> who underſtand Chriſt from enjoyment.<note place="margin">Ioh. 15.4, 5<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. verſe 6.</note>
+            </p>
+            <p>Others that do not enjoy him, and go about to declare him, onely ſpeak of him as one that ſpeaketh of a thing at a diſtance, and ſo ſpeak of him at random; and may aſſoon ſpeak out themſelves, as Chriſt: for that is the onely reaſon and
+<pb n="4" facs="tcp:119519:6"/>cauſe that mens judgements of Chriſt do ſo often alter. It is juſt in this caſe, as it is with ſome men that underſtand the nature of Forreigne Countries by a Globe, or ſecondary declarations: and that is the cauſe men give ſuch ſundry deſcriptions of one and the ſame place: But he that hath been at thoſe places, and underſtandeth them not at the ſe<g ref="char:EOLhyphen"/>cond, but firſt hand; he onely is able to give a right deſcription of places, and things. So it is with thoſe men that have no underſtanding of Chriſt, but what they fetch in by the ſtrength of na<g ref="char:EOLhyphen"/>tural parts, from external declarations; and not from internal enjoyments: they are not any waies able to give a right de<g ref="char:EOLhyphen"/>ſcription, or hold forth a true diſcovery of Jeſus Chriſt ſo, but that they may, and do diſcover more of ſelf, then Chriſt: But thoſe that ſo underſtand Chriſt from an enjoyment of Chriſt,<note place="margin">Iohn 5.57. Gal. 2.19, 20.</note> that they actu<g ref="char:EOLhyphen"/>ally and really live in what they know of Chriſt;<note place="margin">Iohn 17.21, 22, 23, 26.</note> they are onely able to diſco<g ref="char:EOLhyphen"/>ver that love, and lovelyneſſe that is in Chriſt: But I may ſay of the other ſort of men, as the Apoſtle ſaith, in the
+<pb n="5" facs="tcp:119519:6"/>1 Tim. 1.7. <hi>Some preach the Law, but they know not what they ſay, nor whereof they affirme:</hi> But (ſaith the Apoſtle) <hi>Wee know &amp;c.</hi> From thence you may obſerve thus much; That they, and they onely can preach the Law,<note place="margin">Rom. 3, 19. to 31.</note> that underſtand the Law in Chriſt, or by Chriſt; and if the Law, then unqueſtionably the Go<g ref="char:EOLhyphen"/>ſpel.</p>
+            <p>The Reaſons to prove that they, and they onely are fit to declare Chriſt, who underſtand Chriſt from enjoyment, are theſe:</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> 
+               <note place="margin">1 Iohn 5.19, 20.</note> They onely are fit to declare Chriſt, who rightly underſtand Chriſt: But no ſoul doth truly underſtand Chriſt without,<note place="margin">1 Iohn 2.20.27,</note> till he enjoyeth Chriſt with<g ref="char:EOLhyphen"/>in: All the external actings of Chriſt preſented to us, they are but external declarations of a hidden glory, which none knoweth till he doth enjoy: And then,<note place="margin">Rom. 6.3: 4, 5, 6, 8.</note> when a ſoul enjoyeth a crucified Chriſt within, killing, and exalting: dying, and riſing:<note place="margin">Gal. 2.20. &amp; 5.24. &amp; 6, 14.</note> then do we come to underſtand that hidden Manna, and en<g ref="char:EOLhyphen"/>joy that white ſtone,<note place="margin">Col. 3. 1 Rev, 2, 17</note> with a new name written in it, which none knoweth but
+<pb n="6" facs="tcp:119519:7"/>he that doth enjoy it; and none can de<g ref="char:EOLhyphen"/>clare it, but he that knoweth it.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2:</label> He, and he onely is fit to declare Truth,<note place="margin">Gal. 2.20. 1 Cor, 2.1.2, 3, 4, 5, 6. 3 Cor. 12.5</note> whoſe Spirit is ſo cruci<g ref="char:EOLhyphen"/>fied by the power of Truth, that in his acknowledgement of Truth, he doth it ſingly for Truth, and not for ſelf: Pſal. 71.16. <hi>I vvill go on in the ſtrength of the Lord God: I vvill make mention of thy righteouſneſſe, even of thine onely.</hi> But ſelf in no ſoule is ſo laid down by the power of Truth,<note place="margin">Gal. 5.17.</note> till that ſoul is actual<g ref="char:EOLhyphen"/>ly poſſeſſed with Truth; for till then, it is not Chriſt, but ſelf that reigneth.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> 
+               <note place="margin">1 Cor. 2.1, 2, &amp;c. Iam. 1.22, 23.</note> He, and he onely is fit to declare Truth, whoſe Reaſon doth not maſter notions of Truth, but his Rea<g ref="char:EOLhyphen"/>ſon is a ſervant to the power of truth, being overcome and made ſilent by the authority of truth: But no ſoul is ſo o<g ref="char:EOLhyphen"/>vercome and made ſilent by the autho<g ref="char:EOLhyphen"/>rity of truth, but he that enjoyeth truth: Therefore he, and he onely is fit to de<g ref="char:EOLhyphen"/>clare Truth.</p>
+            <p>The firſt uſe is of Information, <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> and firſt this may inform us, who are, and who are not fit to declare truth: thoſe
+<pb n="7" facs="tcp:119519:7"/>men whoſe ſpirits dwell with Chriſt, and are alwaies from thence beholding the glorious objects in Chriſt;<note place="margin">Gal. 2.20.</note> and while they are thus beholding,<note place="margin">Acts 18.5.</note> their ſpirits are ſwallowed up in what they behold; they are thoſe that can diſco<g ref="char:EOLhyphen"/>ver to you, as the diſplayings of the loves of Chriſt without; ſo the expo<g ref="char:EOLhyphen"/>ſtulations of loves within; and as they can diſcover what it is to be owned by Chriſt without, ſo they can diſcover alſo what it is to be owned by a Chriſt within.</p>
+            <p>And as for others that onely know Chriſt without, and are not able to un<g ref="char:EOLhyphen"/>fold that myſterie of glory,<note place="margin">1 Tim. 3.16.</note> which is Chriſt manifeſted in the fleſh; they are not able to declare Chriſt, in a way that is ſuitable to Chriſt.</p>
+            <p>Secondly, This may inform us what the priviledge of the ſaints is, in decla<g ref="char:EOLhyphen"/>ring Chriſt. Their priviledge conſi<g ref="char:EOLhyphen"/>ſteth in theſe things.</p>
+            <p>Firſt, In the eaſineſſe of their decla<g ref="char:EOLhyphen"/>ring Truth, that enjoy Truth; It is no labour nor burden to a ſoul that enjoy<g ref="char:EOLhyphen"/>eth Truth, to declare Truth; for as he doth not by the labour of natural parts
+<pb n="8" facs="tcp:119519:8"/>fetch in Truth, ſo he doth not by the ſtrength of natural parts give out Truth: But Truth in him is alone the power, and life of him, to declare Truth by him, that ſo in all his diſcoveries of Truth, he is ſo far from carrying notions of Truth, that Truth doth carry him; and he can and may ſay as <hi>Paul</hi> ſaith, Gal. 2.20. <hi>Not I, but Christ liveth in me.</hi> And I may ſay in this caſe as S. <hi>Iohn</hi> ſaid in another caſe. Revel. 14.13. <hi>They rest from their labours, and their works follow them.</hi>
+            </p>
+            <p>Secondly, Their priviledge appear<g ref="char:EOLhyphen"/>eth in this, that in all the diſplayings of the love of Chriſt to others, in that, and at that time they ſweetly enjoy the love of Chriſt in themſelves; and ſo enjoy it, that they ſweetly live in it, and are ſweetly refreſhed by the influences of it; ſo that it is enough to ſuch a ſoul to de<g ref="char:EOLhyphen"/>clare Truth; for he ſtandeth not in need of external things to draw him, but the enjoyment of Truth conſtraineth him. 2 Cor. 5.14.</p>
+            <p>The ſecond Vſe is, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> To reprove thoſe men that goe about by power and poli<g ref="char:EOLhyphen"/>cy to reſtraine ſuch ſoules poſſeſſed with
+<pb n="9" facs="tcp:119519:8"/>Truth,<note place="margin">Act, 5.28, 29.</note> from declaring Truth: They do what in them lyeth to ſtop the mouth of the Spirit of Truth; and that is the mean<g ref="char:EOLhyphen"/>ing of the Apoſtle, 2 Theſ. 5.19.20. <hi>Quench not the Spirit; diſpiſe not Propheſie.</hi> So that the diſpiſing of Propheſie, is a quenching the Spirit; not in our ſelves, but in others. Now Propheſie is not for men to preach a Sermon, from fetch<g ref="char:EOLhyphen"/>ing in Notions of Truth, from the ſtrength of Naturall parts; But it is for a man to ſpeake forth Truth from the e<g ref="char:EOLhyphen"/>dicts of it ſelfe; And that is it which St <hi>Iohn</hi> meaneth, when hee ſaith <hi>The testi<g ref="char:EOLhyphen"/>mony of Ieſus is the Spirit of propheſie;</hi> Rev. 19.10. Therefore let ſuch men, who endeavour by power and policy to op<g ref="char:EOLhyphen"/>poſe them, take heede what they doe.</p>
+            <p>The third Vſe is, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> To exhort all thoſe that doe thus enjoy Truth, to declare it.</p>
+            <p>If you ſay you are willing, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> but you are much oppoſed, not onely by ſtrangers, but by dear friends, nay, even by pa<g ref="char:EOLhyphen"/>rents, or brethren, &amp;c.</p>
+            <p>What of that? <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is no more but that
+<pb n="10" facs="tcp:119519:9"/>which was declared by Chriſt himſelfe, Luke 21.16.17.<note place="margin">Mark 13.12, 13.</note> 
+               <hi>And ye ſhall be betray<g ref="char:EOLhyphen"/>ed both by parents and brethren, and kinsfolks, and friends, and ſome of you ſhall they cauſe to be put to death: And ye ſhall be hated of all men for my Names ſake.</hi> The like you may ſee ſpoken of, Cant. 1.6.</p>
+            <p>But if it be objected, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But I am oppo<g ref="char:EOLhyphen"/>ſed by men of Authoritie and power.</p>
+            <p>I anſwer, <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> If it be by the watchmen of the City: It is no other then the Spouſe met withall, Cant, 5.7. And if it be by the Magiſtrate and men of Authoritie, it is no more then was prophecied of, Pſal. 2.2. Eſa. 66.5. And alſo practiſed, Act. 4.18. and 5.28.</p>
+            <p>And therefore the ſum of all is this, That it is better to pleaſe Chriſt,<note place="margin">Acts 4.19.5.29.42.</note> then men: and therefore you which enjoy Chriſt, Ceaſe not, but at all opportuni<g ref="char:EOLhyphen"/>ties, declare what you know of Chriſt, that ſo others may enjoy what you en<g ref="char:EOLhyphen"/>joy. But I ſhall ſay no more of this Vſe, nor of this Concluſion.</p>
+            <p>The ſecond thing in the Declaration,<note place="margin">2. The matter de<g ref="char:EOLhyphen"/>clared.</note> is the matter declared: And in that there is ſomething included, beſides
+<pb n="11" facs="tcp:119519:9"/>what is expreſſed; And that which is included is in this word <hi>Garden;</hi> In which word is implyed the Church of Chriſt: From whence obſerve this concluſion,</p>
+            <p>That Chriſt's Church is Chriſt's Gar<g ref="char:EOLhyphen"/>den. <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label>
+            </p>
+            <p>For the better underſtanding of this Concluſion, I ſhall unfold theſe things,
+<list>
+                  <item>Firſt, What I mean by the Church of Chriſt. <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  </item>
+                  <item>Secondly, How Chriſt's Church may fitly be called a Garden. <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  </item>
+                  <item>Thirdly, How it is ſaid to be Chriſts Garden. <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  </item>
+               </list>
+            </p>
+            <p>For the firſt, What I meane by the Church of Chriſt.</p>
+            <p>I Anſwer, I doe not intend in that,<note place="margin">1. What is meant by the Church of Chriſt.</note> to ſpeak any thing of the Church inviſible; but viſible.</p>
+            <p>And in that, Conſider, Firſt, What I do not meane by the Church of Chriſt; And in the firſt place, I do not mean a <hi>Nationall</hi> Church: And by that word <hi>Nationall</hi> I meane, That a Nation, con<g ref="char:EOLhyphen"/>ſidered as a Nation, cannot be a Church of Chriſt: My reaſons are theſe,</p>
+            <p>Firſt, Becauſe if a Church were con<g ref="char:EOLhyphen"/>ſidered,
+<pb n="12" facs="tcp:119519:10"/>
+               <hi>Nationall,</hi> then a Naturall birth would intereſt a man into a Spirituall priviledge.</p>
+            <p>Secondly, The holy Ghoſt no where conſidereth Church members under a Naturall relation, but under a ſpirituall, conſidering them as Saints. 1 Cor. 1.2. Epheſ. 1.1.</p>
+            <p>Secondly, I doe not meane by a Church, a <hi>Parochiall</hi> Church; that is the ſame in nature with a <hi>Nationall</hi> Church, though not in meaſure; and what may be ſaid againſt one, may bee ſaid againſt the other.</p>
+            <p>But by a Church, I meane a compa<g ref="char:EOLhyphen"/>ny of ſouls,<note place="margin">Ioh. 14.17, 20.</note> who through the commings in of Chriſt, are made able ſo to beleeve in Chriſt, that they are through that be<g ref="char:EOLhyphen"/>leeving, made able freely, and volunta<g ref="char:EOLhyphen"/>rily to give themſelves up to Chriſt,<note place="margin">Rom. 6.17.</note> to walk in the acknowledgement of Chriſt,<note place="margin">Acts 24.14.</note> in, or according to his word.</p>
+            <p>And from the termes of this deſcri<g ref="char:EOLhyphen"/>ption, wee may obſerve theſe three or four conſectaries, and by them you will the better underſtand what I mean;</p>
+            <p>The firſt is,<note place="margin">1. conſe<g ref="char:EOLhyphen"/>ctary.</note> That the Church of
+<pb n="13" facs="tcp:119519:10"/>Chriſt, are beleevers in Chriſt.</p>
+            <p>Secondly,<note place="margin">2. conſect.</note> That the Church of Chriſt are ſuch as are ſweetly overcome, or fetch'd in to Chriſt, by the commings in of Chriſt.</p>
+            <p>Thirdly That the Church of Chriſt,<note place="margin">3. conſect.</note> muſt worſhip Chriſt.</p>
+            <p>Fourthly, That the word of Chriſt,<note place="margin">4. conſect.</note> is the Rule of the worſhip of Chriſt.</p>
+            <p>For the firſt,<note place="margin">1. conſect.</note> That the Church of Chriſt, are beleevers in Chriſt. This is cleare from theſe ſcriptures: 1 Cor. 1.2. and 2 Theſ. 1. chap. 1.2.3. verſes, with many other places.</p>
+            <p>If you aske mee, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> What I meane by a beleever, or by that beleeving: which is to be in all thoſe that are members of the Church of Chriſt?</p>
+            <p>I Anſwer, I will tell you firſt, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> What I doe not meane; and then what I doe mean.</p>
+            <p>For the firſt, I doe not mean a bare profeſſor of Truth, and Faith; for if all <milestone type="tcpmilestone" unit="unspecified" n="1"/> that profeſſe truth, and are not poſſeſſed with truth; ſhould be admitted members of the Church, then the Church would not be made up of living ſtones.</p>
+            <pb n="14" facs="tcp:119519:11"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I do not meane ſuch a be<g ref="char:EOLhyphen"/>leever who is drawn up by the power of Reaſon, from the externall declarations of Truth, to beleeve a Chriſt without; when he doth not enjoy a Chriſt within: which men may doe, and ſo beleeve, that they may bee brought to ſubmit to an externall Ordinance.</p>
+            <p>But by a beleever I mean, A ſoul who from the enjoyment of a Chriſt within, is made able to beleeve a Chriſt without: For beleeving according to Truth is, for a ſoule from the power of Truth, being overcome by it, and ſwallowed up in it, is from thence made able as to aſſent and give credit to it; ſo to aſſent and ſubmit to all things preſented in it, and required by it; as that they are made able to live to the glory of Truth, in every particular act.</p>
+            <p>If you aske me, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> Whether one may not bee admitted to bee a Church member, and receive the Ordinances if he know Chriſt without, ſo as hee is willing to embrace the outward Ordinance; though he doth not know, or is not acquainted with a Chriſt within?</p>
+            <pb n="15" facs="tcp:119519:11"/>
+            <p> I Anſwer, Such ought not to bee ad<g ref="char:EOLhyphen"/>mitted; <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> My reaſons are theſe,</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Becauſe it is not an externall knowing, and ſubmitting to the Ordi<g ref="char:EOLhyphen"/>nances of Chriſt; but a reall one-neſſe with Chriſt, that is a ground of union, and Communion: 1 Joh. 1.7. The A<g ref="char:EOLhyphen"/>poſtle ſaith, <hi>If we walke in the light as he is in the light, then ſhall we have fellowſhip one with another.</hi> From thence it is clear, that an one-neſſe in the miſtery of Truth, is alone the ground of Communion and fellowſhip ſutable to Truth.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> The Saints ought in all admitting of members into the Church, not onely to admit members to them; But they ſhould admit ſuch,<note place="margin">Phil. 1, 25.</note> as they may have ground to beleeve will continue with them;<note place="margin">1 Iohn 2.19, 20, 24, 27.</note> but there is no ground to beleeve that they will continue with them, unleſſe they can or do make out a right underſtanding of a Chriſt enjoyed within; as well as an apprehenſion of a Chriſt without.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> The Church of Chriſt in all entertainment of members,<note place="margin">1 Iohn 1.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7.</note> ought to endeavour to keepe and continue that
+<pb n="16" facs="tcp:119519:12"/>which is the glory and life of union and Communion, which is not a bare en<g ref="char:EOLhyphen"/>joying of each other in an externall Or<g ref="char:EOLhyphen"/>dinance; but a ſweet refreſhing of each other, by giving out to each other, their internall injoyments; for it is not a bare breaking of bread together, to make out a crucified Chriſt without, that is the life and refreſhing of Saints; but it is the ſweet unfoldings, in the givings out of their experiences each to other; in which they do ſweetly unfold and give out that love, which is the life of Saints: And in the giving out of each others experien<g ref="char:EOLhyphen"/>ces, there is a ſweet building up, and re<g ref="char:EOLhyphen"/>freſhing of each other; As face anſwers face in a glaſſe; ſo doth the experience of one Saint anſwer another; and in their ſo anſwering, there is a ſweet wrap<g ref="char:EOLhyphen"/>ing up of each others ſpirit, in each o<g ref="char:EOLhyphen"/>thers injoyment: And as this is, and ought to be the ground of Love; So it is that which is the continuation of love; but this cannot be enjoyed by admitting of members that onely know a Chriſt without, and do not know and enjoy a Chriſt within.</p>
+            <pb n="17" facs="tcp:119519:12"/>
+            <p> Fourthly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> That which may be in the men of the world; that cannot be a ſuf<g ref="char:EOLhyphen"/>ficient ground to admit one into Church fellowſhip: But a bare beleeving of Chriſt without, may be in the men of the world: and therefore that is not a ſufficient ground to admit one into Church-fellowſhip.</p>
+            <p>The <hi>major</hi> is clear: And for the <hi>minor</hi> I prove thus; That which the Divel may do, a man of the world may do in matter of beleeving; But the Devils did believe, and know a Chriſt with<g ref="char:EOLhyphen"/>out, Jam. 2.19. and yet did not enjoy a Chriſt within: Therefore a wicked man, or a man of the world may do the ſame: And therefore that is not a ſuffi<g ref="char:EOLhyphen"/>cient ground to admit one into Church-fellowſhip.</p>
+            <p>Fifthly, As the Apoſtles owned men, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> ſo ought we to owne men: But the A<g ref="char:EOLhyphen"/>poſtles knew no man after the fleſh, 2 Cor 5.16. that is, (as I conceive) by <hi>fleſh</hi> he meaneth all external acts of righ<g ref="char:EOLhyphen"/>teouſneſſe; which he calleth <hi>fleſh</hi> in Phil. 3.4. Therefore (I conceive) the Apo<g ref="char:EOLhyphen"/>ſtle meaneth, they <hi>know no man after the
+<pb n="18" facs="tcp:119519:13"/>fleſh;</hi> that is, according to their exter<g ref="char:EOLhyphen"/>nal actings; but according to their in<g ref="char:EOLhyphen"/>ternal enjoyments: And ſo ought we.</p>
+            <p>Sixthly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>6</label> That which is the onely way to bring diſtractions into the Church of Chriſt, that ought not to be practiſed by the Church of Chriſt; but the admitting of members upon ſo ſlight a ground, as a bare believing of a Chriſt without, when they do not know and enjoy a Chriſt within, is the cauſe of diſtractions in the Church of Chriſt: and therefore ought not to be practiſed.</p>
+            <p>If you aske me, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> What are the diſtra<g ref="char:EOLhyphen"/>ctions it may, or doth produce?</p>
+            <p>
+               <hi>I Anſwer,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> The diſtractions are ſuch as theſe:</p>
+            <p>Firſt,<note place="margin">Diſtract. 1.</note> A continued fear that men will, or may fall off from them: For if men hold themſelves in the profeſſion of Truth,<note place="margin">1 Ioh. 2.19.</note> and are not held in by the pow<g ref="char:EOLhyphen"/>er of Truth; then they will at firſt or laſt fall off from Truth.</p>
+            <p>Secondly,<note place="margin">Diſtract. 2.</note> This is that which open<g ref="char:EOLhyphen"/>eth the mouths of ſome that are not yet in external fellowſhip, not onely to
+<pb n="19" facs="tcp:119519:13"/>ſpeak againſt it; but it maketh them al<g ref="char:EOLhyphen"/>ſo afraid to ſubmit to it, becauſe they fear that we center, and put too much in outward Ordinances, and too little in inward enjoyments; This maketh them fear that they ſhall not enjoy that amongſt them that profeſſe outward Ordinances, which they do enjoy a<g ref="char:EOLhyphen"/>mongſt others.</p>
+            <p>Thirdly, It is a grief, and trouble,<note place="margin">Diſtract. 3.</note> and ſadneſſe to the ſpirits of them that are already in fellowſhip; For inſteed of being built up with the exchanges of experiences; they (meeting many times with ſome who are admitted upon con<g ref="char:EOLhyphen"/>feſſion, and profeſſion of a Chriſt with<g ref="char:EOLhyphen"/>out, when they do not ſo enjoy Chriſt within, as to ſee an intereſt in him, and have a ſenſible communion with him) inſteed of the exchanges of experiences, that may refreſh the ſouls of each other, they give out nothing but external de<g ref="char:EOLhyphen"/>clarations about external adminiſtrati<g ref="char:EOLhyphen"/>ons; which is ſo far from refreſhing, that it doth exceedingly damp the heart of a ſoul that liveth with God: And it is no better then pouring cold water
+<pb n="20" facs="tcp:119519:14"/>upon a warmed ſpirit; For though ex<g ref="char:EOLhyphen"/>ternal Ordinances are very good in re<g ref="char:EOLhyphen"/>ference to the will of God; yet it is not an outward Ordinance, but God in the Ordinance, that is the life of a Saint.</p>
+            <p>Seventhly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>7</label> That which is held out in the Goſpel for men to believe, that ought to appear in men when they do profeſſe themſelves to believe, before they are admitted into Church-fellow<g ref="char:EOLhyphen"/>ſhip: But that which the Goſpel hold<g ref="char:EOLhyphen"/>eth out for men to believe, is not a bare believing of Chriſt preſented to them, but to believe an intereſt in Chriſt,<note place="margin">Ioh. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.15.14.6.</note> ſo as to enjoy life by him:<note place="margin">Gal. 2.20, 1 Ioh. 1.7.</note> And untill men can declare that they ſee an intereſt in Chriſt, and ſenſibly enjoy Chriſt, there is no ground for us to believe, that they do ſo believe, as to admit them into Church-fellowſhip.</p>
+            <p>And ſo much concerning the firſt conſectarie; That the Church of Chriſt are believers in Chriſt.</p>
+            <p>The ſecond conſectary is,<note place="margin">Conſect. 2.</note> That the Church of Chriſt are ſuch as are ſweetly overcome, and fetch'd in to Chriſt, by the commings in of Chriſt.</p>
+            <pb n="21" facs="tcp:119519:14"/>
+            <p> By thoſe expreſſions, my meaning is: Firſt, That that heart that is truly poſſeſſed with Chriſt, is ſweetly over<g ref="char:EOLhyphen"/>come by the ſweet love and lovelyneſſe of Chriſt, ſo that he hath nothing to ſay againſt him, or any thing that is requi<g ref="char:EOLhyphen"/>red by him, but doth ſweetly ſubmit to him.</p>
+            <p>Secondly, He is fetch'd in; by that I mean, not onely a fetching into an external Ordinance, but to the enjoy<g ref="char:EOLhyphen"/>ment of an internal glory: he is not barely fetch'd in from a ſeeming power of death, to live under the ſhadow of life: but he is really fetch'd from the power of death, into the glory of life: In a word, he is fetch'd into the boſome of God, to live in him, ſo that he is ſweetly wrapt up in the myſterie of that glory which is involved in the boſome of God. And ſo much for that conſe<g ref="char:EOLhyphen"/>ctarie.</p>
+            <p>The third conſectarie is,<note place="margin">Conſect. 3.</note> That the Church of Chriſt muſt worſhip Chriſt. And that this is their duty, is cleer from theſe Scriptures; 2 Kings 17.36. 1 Chron. 16.29. Pſal. 29.2. and 96.9.
+<pb n="22" facs="tcp:119519:15"/>John 4.23, 24. Acts 24.14. Rom. 12.1. Phil. 3.3. And had I time, I ſhould ſpeak ſomthing of the word <hi>Worſhip:</hi> for Worſhip in Scripture is taken either for Moral, or Inſtituted Worſhip; but I ſhall ſay nothing of that: Onely in a word, the people of God are to acknow<g ref="char:EOLhyphen"/>ledge God in all things, both external, and internal, that are required of them by God. But I ſhall not (at this time) ſpeak any more of this conſectary.</p>
+            <p>The fourth conſectary is,<note place="margin">Conſect. 4.</note> That the word of Chriſt, is the Rule of the wor<g ref="char:EOLhyphen"/>ſhip of Chriſt.<note place="margin">Eſai. 8.20.</note> Every King muſt, and doth rule by a Law ſutable to himſelf: Kings that govern, and rule in civill things, are to govern and rule by a ci<g ref="char:EOLhyphen"/>vil Law; but Chriſt who is a King ſpiri<g ref="char:EOLhyphen"/>tual, ruleth and regulateth his Church by a ſpiritual Law; civil Lawes cannot reach Chriſts government; Neither hath Chriſt centred any power in the civil authority, to regulate mens ſpirits in the worſhip of Chriſt;<note place="margin">Gen. 49.10.</note> though that was for<g ref="char:EOLhyphen"/>merly in the Church of the Jewes, which was a type of Chriſt; it is now ended by Chriſt; and all power in
+<pb n="23" facs="tcp:119519:15"/>matter of worſhip is called home to him,<note place="margin">Eſa. 9.6.7.</note> and reſides in him:<note place="margin">Mat. 11.27.</note> and thoſe men that indevour by the power of a civil Law to conſtrain men to a ſpiritual worſhip,<note place="margin">Ioh. 3.35.</note> they take upon them the au<g ref="char:EOLhyphen"/>thority and prerogative of Jeſus Chriſt: Nay in a word, they in that act deny Chriſt come in the fleſh; and it is not onely ſinful; but poor and beggarly: for they would have all men ſee with their eyes; and all mens ſpirits in nature and meaſure ſutable to their Law; and if they ſee more, they muſt be fetched back by the power of it; and if they ſee leſſe, the muſt be fetched up to it by that power and authority in it; and in ſo doing, they take upon them the ſole work of God himſelf. But I ſhall ſay no more of that thing, nor of the firſt terme in the Propoſition; What I mean by the Church of Chriſt.</p>
+            <p>
+               <note place="margin">2. Why the Church is called a Garden.</note> The ſecond thing to be unfolded is, Why the Church of Chriſt is called a Garden; Or wherein it may fitly be compared to a Garden?</p>
+            <p>I anſwer, The Church of Chriſt may fitly be compared to a Garden in theſe things:</p>
+            <pb n="24" facs="tcp:119519:16"/>
+            <p> Firſt, In that it is incloſed: common fields have common fences,<note place="margin">1. Chriſts Church may fitly bee called a Garden, Becauſe it is incloſed.</note> but no ſpecial encloſure: In a ſpecial manner to be encloſed is the property of a Gar<g ref="char:EOLhyphen"/>den; and therein may the Church of Chriſt fitly bee called a Garden, Cant. 4.12. <hi>A Garden encloſed is my ſi<g ref="char:EOLhyphen"/>ſter, my Spouſe:</hi> and ſo Iſa, 5. <hi>I had a Vineyard, and I ſet a Wall about it,</hi> (ſaith Chriſt) <hi>and I hedged it.</hi> &amp;c. All this diſ<g ref="char:EOLhyphen"/>covers thus much, That the Church of Chriſt, which is Chriſts Garden; is ſpecially encloſed; and this encloſure is not a bare external diſcipline, to ſepa<g ref="char:EOLhyphen"/>rate them from the World;<note place="margin">Rom. 8.35.</note> But it is alſo the ſpecial love,<note place="margin">Iohn 14.21.15.12, 13.17.15.</note> and power, and ſweet<g ref="char:EOLhyphen"/>neſſe of Chriſt, to ſecure them from the evil that is in the world.</p>
+            <p>
+               <note place="margin">2. Becauſe there is more fruit there, then elſewhere.</note> Secondly, The Church of Chriſt may fitly be called a Garden, Becauſe there is more ſpecial fruit there then elſe<g ref="char:EOLhyphen"/>where: In common fields and road<g ref="char:EOLhyphen"/>waies there may be common fruits; but your ſpecial and choice fruits are in your encloſed Gardens; ſo it is in the Church of Chriſt; In the men of the world there may be ſome common gifts to de<g ref="char:EOLhyphen"/>clare
+<pb n="25" facs="tcp:119519:16"/>Chriſt; and ſome civil and legal conformity to Chriſt; and alſo a love to Chriſt, from a ſuppoſed good by Chriſt, when they can love themſelves, in love<g ref="char:EOLhyphen"/>ing of Chriſt: and the ſame we may ſay of ſorrow for ſin; and joy in duty: &amp;c. But if you look for a choiſe love, and a choiſe light,<note place="margin">Eph. 3.29.5.19.</note> you muſt look for it where it is,<note place="margin">Mat. 11.27.</note> and that is either in the heart of Chriſt, the Gardiner;<note place="margin">1 Iohn 2.20.27.</note> or elſe in the ſaints, who are the Garden. Every ſtream looks like its own Fountain; and every beam like its own Body from whence it flowes; Therefore if you de<g ref="char:EOLhyphen"/>ſire to ſee a choiſe love,<note place="margin">2 Cor. 7.11.</note> and a choiſe light, a choiſe joy, and a choiſe ſorrow, you muſt view it onely and alone in the heart of ſaints; They who are poſſeſ<g ref="char:EOLhyphen"/>ſed with Chriſt, and ſo live with Chriſt, that all living acts flow from Chriſt, they are not carried out to love from an apprehenſion of good without them, preſented to them; But they love from a power of good, ſeated in them: They do not love to gain life; but they ſo love from a power of life, that it is a gain to them to love: That love that is in the
+<pb n="26" facs="tcp:119519:17"/>heart of Saints to God, flowes from no leſſe then the very heart of God: It looks like him, it is owned by him, it wraps up, and involves the ſpirit, loving in the glory of him: theſe are the choiſe fruits and ſpices Chriſt ſpeaks of in the CANTICLES.</p>
+            <p>And ſo we are to underſtand the words of Chriſt,<note place="margin">Mat. 5.47.</note> where he ſaith, <hi>What is in you, more then in another?</hi> implying that there is ſome ſingular thing in the heart of Saints, that is not elſe where: You may finde light, and love, and ſorrow, and joy in the heart of men, yet unacquain<g ref="char:EOLhyphen"/>ted truely with God: But if you will finde theſe Purely, and Truely; Singly, and Tranſcendently, you muſt expect it no where, but where Chriſt dwells with a Soule, and a Soule with Chriſt. And therefore under that ſecond conſiderati<g ref="char:EOLhyphen"/>on, The Church of Chriſt may fitly bee called a Garden.</p>
+            <p>
+               <note place="margin">3. Becauſe there is more care taken of it.</note> Thirdly, The Church of Chriſt may fitly be called a Garden, Becauſe there is more Care taken of it, and more ſpeciall watching over it then of other places.</p>
+            <p>Where the Lord ſaith,<note place="margin">Eſa. 27.3.</note> 
+               <hi>I watered it, and
+<pb n="27" facs="tcp:119519:17"/>watched it night and day, that none ſhould burt it.</hi> Men take a common care of their common fields; But they take a ſpeciall care of their encloſed Gardens; So it is with God himſelfe,<note place="margin">Pſal. 145.9.</note> 
+               <hi>Whoſe mercy is over all his works;</hi> But his choyceſt Loves, Light,<note place="margin">Iohn 14, 21.23.</note> and Life is diſplayed in the heart of Saints: and they are not onely under a common Providence, but a Fatherly and Friendly care.</p>
+            <p>I might here ſpeake ſomething of the White. ſtone; and alſo of the choice ownings, and imbracings betwixt Chriſt and his Saints. But I ſhall leave that to the experience of them that doe enjoy it.</p>
+            <p>
+               <note place="margin">4. Becauſe Chriſt takes ſatiſ<g ref="char:EOLhyphen"/>faction and delight in it.</note> Fourthly, The Church of Chriſt may fitly be compared to a Garden in refer<g ref="char:EOLhyphen"/>rence to the ſweet Refreſhings, Satiſ<g ref="char:EOLhyphen"/>faction, and Content Chriſt takes in it; Which content and ſatisfaction of Chriſt doth appeare, and is made manifeſt by theſe things.</p>
+            <p>Firſt, In Chriſt's ſweet diſcoveries, and friendly manifeſtations in a ſecret way to them;<note place="margin">Iohn 14.21.</note> It is here betwixt Chriſt and his Church, as it is betwixt friends,
+<pb n="28" facs="tcp:119519:18"/>If men deſire to have a friendly diſcourſe with a friend, they commonly go (not into the common fields, but) into enclo<g ref="char:EOLhyphen"/>ſed Gardens, where they may diſcover their mindes, as privately, ſo freely, and friendly; So it is betwixt Chriſt and his Church, who when he hath any choice matter to diſcover, from the heart of his Father, He preſently retires to the heart of Saints,<note place="margin">Iohn 15.15.</note> where he doth, and can ſpeake as fully, ſo freely; And in his diſcovery of himſelfe, and his Father to them, hee takes great delight. And herein the content and ſatisfaction of Chriſt in the Saints doth appear.</p>
+            <p>Secondly, The content and ſatisfacti<g ref="char:EOLhyphen"/>on of Chriſt doth appeare, in that Chriſt is pleaſed, not onely to carry them by a common hand of Providence, but hee carries them in his Boſome;<note place="margin">Eſa. 40.11.</note> He delights for them to ly in his heart, and for Him to live in them.</p>
+            <p>Thirdly, Not onely ſo, But the con<g ref="char:EOLhyphen"/>tent of Chriſt appeares in divers expreſ<g ref="char:EOLhyphen"/>ſions which he takes up to expreſſe him<g ref="char:EOLhyphen"/>ſelfe in, and declare himſelfe by, to his Churches;<note place="margin">Hag. 2.23.</note> Sometimes he calls them the
+<pb n="29" facs="tcp:119519:18"/>
+               <hi>Signet upon his finger:</hi> Sometimes hee de<g ref="char:EOLhyphen"/>ſires to bee <hi>Set as a ſeale upon their heart:</hi>
+               <note place="margin">Cant. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.6.</note> Sometimes hee cries out and ſaith, <hi>Turne away thine eyes from me,</hi>
+               <note place="margin">Cant. 6.5.</note> 
+               <hi>for they have over<g ref="char:EOLhyphen"/>come me:</hi> And ſometimes hee cries out, <hi>Shew me thy Countenance, Let mee heare thy voice; for ſweet is thy voice,</hi>
+               <note place="margin">Cant. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.14.</note> 
+               <hi>and thy Counte<g ref="char:EOLhyphen"/>nance comely.</hi> It is here with Chriſt, as it is with one that delights not only in a Garden, but in the variety of fruits in that Garden; So Chriſt is pleaſed by the ſweet and glorious ſcituation, and in<g ref="char:EOLhyphen"/>dwelling of himſelfe in the ſoul, to cauſe the ſoul to bring forth choice fruits unto himſelfe, and Chriſt loves to view the fruits of his own love, and the Beames of his owne Beauty; And it is impoſsible for any Gardiner to take ſo much delight in any Garden, as Chriſt takes in the heart of Saints; For Chriſt is not carry<g ref="char:EOLhyphen"/>ed up by them, but hee carries up them to Himſelfe: The Spirit of Chriſt is not revived by any ſtream in a Saint, beſides Himſelfe; but all the refreſhment of a Saint, and of himſelfe, flowes from him<g ref="char:EOLhyphen"/>ſelfe as the onely Fountaine. And theſe wayes (and many other) doth the con<g ref="char:EOLhyphen"/>tent
+<pb n="30" facs="tcp:119519:19"/>that Chriſt takes in his Church ap<g ref="char:EOLhyphen"/>peare. And ſo you ſee how the Church of Chriſt may fitly bee compared to a Garden.</p>
+            <p>And for the Third thing,<note place="margin">3. Why the Church of Chriſt is called Chriſts Garden,</note> Why the Church of Chriſt is called Chriſts Gar<g ref="char:EOLhyphen"/>den.</p>
+            <p>I <hi>Anſwer,</hi> It may fitly be called Chriſts Garden upon theſe grounds,</p>
+            <p>Firſt, Becauſe it was planted by Him.</p>
+            <p>Secondly, It is incloſed in Him.</p>
+            <p>Thridly, It is made fruitfull through the enjoyments of Him.</p>
+            <p>Fourthly, It looks like him.</p>
+            <p n="1">1. Of the firſt,<note place="margin">1. Becauſe it is plan<g ref="char:EOLhyphen"/>ted by him</note> It is planted by Him: It is the ſame thing that Chriſt ſaith, Eſa. 5.2. <hi>Hee planted it with a choice Vine.</hi> Every one may lay claime to the work<g ref="char:EOLhyphen"/>manſhip of his own hand: There is no<g ref="char:EOLhyphen"/>thing in the heart of a Saint conſidered ſpirituall and heavenly, but it was plan<g ref="char:EOLhyphen"/>ted there by Jeſus Chriſt: and thus con<g ref="char:EOLhyphen"/>ſider the hearts of Saints centred and placed in any divine enjoyment, they are placed and ſeated there, as with, ſo by Jeſus Chriſt. Epheſ. 2.</p>
+            <pb n="31" facs="tcp:119519:19"/>
+            <p> Looke upon all the Loves, Joyes, Deſires and Longings of a Saint: If you aske me Whoſe they are? I tell you they belong to him that planted them, and that is the Lord Chriſt: All the out-go<g ref="char:EOLhyphen"/>ings of the heart of Saints to God in Chriſt, they are but the reflections of the Divine beame of eternall glory, the head and fountaine of which is in God him<g ref="char:EOLhyphen"/>ſelfe.</p>
+            <p>If you looke upon any Divine enjoy<g ref="char:EOLhyphen"/>ment where a Saint is planted or placed: If you ask me Who brought up a low Spirit to thoſe high enjoyments? I <hi>An<g ref="char:EOLhyphen"/>ſvver,</hi> It is the work of Chriſt, who at one and the ſame time liveth with God in the heighth of his glory, and with poore creatures that are here below; bringing down Gods highneſſe to their weakneſſe, and bringing up their weak<g ref="char:EOLhyphen"/>neſſe to Gods highneſſe. So then in this firſt ſence, they may well be called the Garden of Chriſt; becauſe in all their plantings, they are planted by Chriſt.</p>
+            <p>Secondly,<note place="margin">2. Becauſe it is inclo<g ref="char:EOLhyphen"/>ſed in him.</note> As they are planted by him, ſo they are incloſed in him; Eve<g ref="char:EOLhyphen"/>ry
+<pb n="32" facs="tcp:119519:20"/>Garden hath a particular incloſure; But Chriſts Garden more high and glo<g ref="char:EOLhyphen"/>rious; They are not onely incloſed by a common Providence to protect and ſe<g ref="char:EOLhyphen"/>cure them; but they are incloſed with<g ref="char:EOLhyphen"/>in the choice limits of Chriſts Loves: They are carryed in his boſome,<note place="margin">Eſa. 40.11.</note> they are borne up in his armes: Was there ever a place more ſecret, high and glorious in the heart of Chriſt, then where a Saint lives? He ſhould be drawn up to a high<g ref="char:EOLhyphen"/>er enjoyment then yet he hath, or ſhall have. But the truth is the Lord Chriſt locks up, and incloſeth his Garden in his choiſeſt cloſſet; and that is in no leſſe then in the heart: Of what? Even of himſelfe, Nay of his Father; and they are ſo incloſed in the heart of him, that there they live in the midſt of all his Loves: They are comprehended with<g ref="char:EOLhyphen"/>in the Divine beames of his eternall de<g ref="char:EOLhyphen"/>lights, love and content. And this is the ſecond ground,<note place="margin">3. Becauſe they are made fruitfull through the enjoy<g ref="char:EOLhyphen"/>ments of him.</note> why they may be called Chriſts Garden: becauſe as they are planted by him, ſo they are incloſed in him.</p>
+            <p>Thirdly, They are made fruitfull
+<pb n="33" facs="tcp:119519:20"/>through the enjoyments of him; The thoughts of which, doth exceedingly tranſport my ſpirit in the viewing of it, that we who are low, ſhould bee advan<g ref="char:EOLhyphen"/>ced into the highneſſe of Gods preſence, who have not onely admittance to, but intereſt in the heart of Ieſus: This with much more, is our priviledge: And for our fruitfullneſſe toward our God, in the acknowledgement of theſe high privi<g ref="char:EOLhyphen"/>ledges we enjoy by God: From whence flow they? Is our priviledge gained by the ſtrength of our duty? Or Is our duty produced by the power of our priviled<g ref="char:EOLhyphen"/>ges? It is that we dwell with Chriſt,<note place="margin">Col. 3.1.</note> or rather, that Chriſt dwells with us, which is the onely cauſe of our bearing fruit to Chriſt:<note place="margin">Eph. 3.17.</note> And what the ſweet diſtillings of that eternall dew, and ſpirituall wa<g ref="char:EOLhyphen"/>tering is: no ſoule knowes, but hee that doth enjoy it: See what Chriſt ſaith, Eſa. 27.3. <hi>I the Lord do keepe it, I will wa<g ref="char:EOLhyphen"/>ter it every moment, leſt any hurt it, I will keepe it night and day.</hi> This watering the heart of Saints, it is by the ſweet diſ<g ref="char:EOLhyphen"/>playings, and glorious unfoldings of the Fathers good will to the Saints; through
+<pb n="34" facs="tcp:119519:21"/>which beames there is power and life be<g ref="char:EOLhyphen"/>got in them; through which life and power there is duties performed by them; So that all the duties Saints bring to the heart of Jes;us Chriſt, it is but the returnes of his own ſtreames, and the re<g ref="char:EOLhyphen"/>flection of his own beams.<note place="margin">Col. 3.3.</note> How hard, dead, and unſencible is a Saint when Eclipſed by Chriſt? How high, how ſpirituall, how Evangelicall is a Saint in his actings to Chriſt, when hee acts from an enjoyment of Chriſt? See but what Chriſt ſaith, John 15.1.2. <hi>I am the Vine, and ye are the branches.</hi> This doth not onely ſhew the choice relation that is betwixt Chriſt and his Spouſe, but al<g ref="char:EOLhyphen"/>ſo ſheweth the ſweet conveyance of life from himſelfe to his Spouſe: for as the branch in a Vine cannot bring forth fruit, but as it receiveth ſappe from the root; neither can a Saint who is made one with Chriſt, bring forth fruit unleſſe he hath in-comes from Chriſt: There<g ref="char:EOLhyphen"/>fore he ſaith, (verſe 15.) <hi>Without me ye can do nothing.</hi> And ſo much of this third thing, They are made fruitfull through the enjoyments of him.</p>
+            <pb n="35" facs="tcp:119519:21"/>
+            <p> Fourthly, They looke like him:<note place="margin">4. Becauſe they looke like him.</note> 
+               <hi>A<g ref="char:EOLhyphen"/>dam</hi> begot a Sonne like unto himſelfe: This ſecond <hi>Adam</hi> who is from Heaven, and therefore Heavenly,<note place="margin">1 Cor. 15.45, 47.48.49.</note> all the Saints that are made one with him, who are involved in him,<note place="margin">Eph. 1.4.</note> who are made fruit<g ref="char:EOLhyphen"/>full by him; they looke like him, 1 Joh. 4.17. <hi>As he is, ſo are we in this world.</hi> Look, you that have experience of the enjoy<g ref="char:EOLhyphen"/>ments of Chriſt; You I ſay, who are wont to ſit down amongſt the Loves of Chriſt, viewing and beholding the heart of Jeſus: Doe but behold the heart of a Saint, and there is a ſweet ſutableneſſe, or likeneſſe each to other.</p>
+            <p>If you aske me, From whence com<g ref="char:EOLhyphen"/>eth this? I tell you it is, becauſe whatſo<g ref="char:EOLhyphen"/>ever is conſidered in the heart of a Saint, as a Saint, it is really one with Chriſt, it really flowes from Chriſt. I told you before, that every beame is like its own Body; So it is here; that Love that is in a ſaint to Chriſt, it is but a Sonne,<note place="margin">1 Ioh. 4.9.10.</note> it is but a fruit of the Love that is in Chriſt to us: The love that is in a ſaint, is not onely begot by him, but it really flowes from him, as one with him. And what
+<pb n="36" facs="tcp:119519:22"/>you may ſay of Love, you may ſay of all that is conſidered in the heart of a ſaint, as a ſaint, Inſomuch that if you ſhould call the love that is in a ſaint to Chriſt, <hi>Choice Love;</hi> you could neither wrong a ſaint, nor Chriſt in that thing.</p>
+            <p>Deareſt friends, Behold in this a great wonder, Chriſt in the givings out of himſelfe to us, requires returnes of himſelfe in an acknowledgement of ſo great a priviledge: But behold all the returnes in us to Chriſt, flowes from Chriſt, as the originall Fountaine, and Well-head of all thoſe ſtreames. And ſo much of this fourth thing, They look like him. And now I have done with unfolding the termes of the ſecond Do<g ref="char:EOLhyphen"/>ctrine to you; which was, that Chriſts Church is Chriſts Garden.</p>
+            <p>
+               <note place="margin">Vſe of In<g ref="char:EOLhyphen"/>formation.</note> The firſt Vſe is a Vſe of Information, to informe us of many Truths, which I ſhall draw from the Propoſition or Con<g ref="char:EOLhyphen"/>cluſion; and that ſhall be in drawing ſe<g ref="char:EOLhyphen"/>verall Conſectaries from the particulars in every terme; Onely the firſt terme, <hi>viz.</hi> what I meant by the Church of Chriſt, I have at large handled it alrea<g ref="char:EOLhyphen"/>dy,
+<pb n="37" facs="tcp:119519:22"/>and therefore I ſhall ſpeak no more of that at this time.</p>
+            <p>But I ſhall come to draw Conſectaries from the ſecond and third things.</p>
+            <p>Firſt, From the ſecond, Why the Church of Chriſt is called a Garden. And I gave you four Reaſons why it may fitly be called a Garden.</p>
+            <p>Firſt, Becauſe it is incloſed.</p>
+            <p>Secondly, Becauſe there is more ſpe<g ref="char:EOLhyphen"/>ciall fruit there, then elſe where.</p>
+            <p>Thirdly, Becauſe there is more care taken of it, and watchfullneſſe over it.</p>
+            <p>Fourthly, Becauſe Chriſt takes more Content and Delight in it, then elſe<g ref="char:EOLhyphen"/>where.</p>
+            <p>From thence obſerve theſe four Con<g ref="char:EOLhyphen"/>ſectaries.</p>
+            <p>Firſt, From the firſt thing,<note place="margin">Conſect. 1.</note> That Chriſts Church may fitly bee called a Garden, Becauſe it is incloſed; From thence obſerve this Conſectarie, That Chriſts Church is not a ſcattered confu<g ref="char:EOLhyphen"/>ſed, but an incloſed Company; It is the property of idle ſhepherds to let their ſheepe goe ſcattered up and downe, not
+<pb n="38" facs="tcp:119519:23"/>knowing them, nor them knowing him: But the Lord Chriſt taketh care to incloſe his Garden within the limits of that Light, Life and Glory that maketh known himſelfe to them, and them to himſelfe;<note place="margin">Ioh. 10.14.</note> that whereſoever a Saint is, he is ſtill incloſed by Chriſt; hee is not without the Pale, but hee is ſtill with<g ref="char:EOLhyphen"/>in the borders of the limits of that ſtrong wall, Eſa. 26.5. And therefore wee may ſay here as Chriſt ſaith, Cant. 4.12. <hi>A Garden incloſed, is my ſister, my ſpouſe.</hi>
+            </p>
+            <p>What this incloſure is in the fellow<g ref="char:EOLhyphen"/>ſhip of the Saints in any ſence, at this time I ſhall not ſpeak, having ſpoke ſo largely to this before; But this I am ſure of, That Chriſts Church is an incloſed Garden.</p>
+            <p>Wee might in the way of Vſe of this Conſectarie come a little to parralell the Church of England with the Church of Chriſt; <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>
+               </label> And whether that bee an inclo<g ref="char:EOLhyphen"/>ſed Garden, or a confuſed wilderneſſe; I leave to you to judge. For looke up<g ref="char:EOLhyphen"/>on the Church of England as a National Church, ſo conſidered, it is that which rather breeds and bringeth forth that
+<pb n="39" facs="tcp:119519:23"/>which oppoſeth and endeavours to de<g ref="char:EOLhyphen"/>ſtroy the Church of Chriſt, the Lillies of Chriſt; then any waies lookes with a face like Chriſt himſelfe.</p>
+            <p>And what we may ſay of a Nationall Church, we may ſay the ſame of a Pa<g ref="char:EOLhyphen"/>rochiall Church: But I ſhall ſay no more of that thing, but only this, That Chriſts Church is an incloſed Garden.</p>
+            <p>The Second Conſectarie is drawne from the ſecond thing,<note place="margin">Conſect. 2.</note> which was this, That the Church of Chriſt may fitly bee called a Garden, becauſe there is more ſpeciall fruit there, then elſe-where; Thence obſerve this Conſectarie, That the fruits in a Saint placed thereby Jeſus Chriſt, They are choice fruits: The higheſt title that Chriſt can give them, he gives to them: There is no excellent ſpices, no wines, no fruits, but Chriſt takes up to expreſſe the glory, and ex<g ref="char:EOLhyphen"/>cellency, and beauty of thoſe fruits that grow and live in a Saint; I ſay here (as I ſaid before) There is common fruits in common fields; but your choice fruits are in your Gardens: Men go to refreſh their ſpirits with a ſight of Lillies, and
+<pb n="40" facs="tcp:119519:24"/>Roſes, and other choice fruits in encloſed Gardens; Behold if you would looke upon the choice Lillies of Love, The Roſe of Sharan, Looke what is planted and placed in the heart of ſaints; there is the Roſe of Sharan; there dwells the Lilly of the Valleys,<note place="margin">Cant. 2.1.</note> even Chriſt in them:<note place="margin">Ioh. 14.17.20.</note> And all the fruit of love, thank<g ref="char:EOLhyphen"/>fullneſſe, or acknowledgement in Pray<g ref="char:EOLhyphen"/>ing, or ſpeaking to, or of Jeſus Chriſt, it flowes from Chriſt, as dwelling in them, and therefore muſt needs bee a choice fruit.</p>
+            <p>Truely it ſads my ſpirit to ſee that in theſe dayes when there is ſo much light, Copper ſhould goe for the pureſt Gold; My meaning is, That common, bor<g ref="char:EOLhyphen"/>rowed Religions ſhould be owned as the Religion that Chriſt himſelfe ownes: But I ſhall not at this time largely ex<g ref="char:EOLhyphen"/>preſſe my ſelfe in this thing; Onely thus much take notice of, That there is a Re<g ref="char:EOLhyphen"/>ligion conſidered onely in reference to Reaſon. A Religion in reference to a Law without, and not a Law and Love within. A Religion in reference to a Letter, when men endeavour by the
+<pb n="41" facs="tcp:119519:24"/>ſtrength of Religion to finde out the ſpi<g ref="char:EOLhyphen"/>rit; and there Religion is not produced by beeing found out by the ſpirit it ſelfe; and that cauſeth all the confuſion that is now-a-dayes in the world, for if rea<g ref="char:EOLhyphen"/>ſon goes to trade with law, and letter, it converts both law and letter into no higher glory then into the light of it ſelf; and all the fruit that is in ſuch a mans ſpirit, conſidered in every act of Religi<g ref="char:EOLhyphen"/>on, it is poore, it is beggarly, it is low, it is legall, it is but a Religion in the letter, and not in the ſpirit.</p>
+            <p>If you aske me, Why I call this a Re<g ref="char:EOLhyphen"/>ligion? <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label>
+            </p>
+            <p>I <hi>Anſwer,</hi> I call it ſo in reference to man, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> and not to God.</p>
+            <p>If you aske me what I mean by a Re<g ref="char:EOLhyphen"/>ligion in reference to Reaſon, Law, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> and Letter?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> 
+               <note place="margin">What Religion in refer<g ref="char:EOLhyphen"/>rence to Reaſon is.</note> In a word I <hi>Anſwer</hi> thus, firſt, For that Religion which is in reference to Reaſon, It is when Reaſon is the high<g ref="char:EOLhyphen"/>eſt Light that a man enjoyeth, and that Reaſon is put forth as in directing men, ſo in convicting, when men vary from that direction, through the power of
+<pb n="42" facs="tcp:119519:25"/>which there is wrought a certaine con<g ref="char:EOLhyphen"/>formitie to the light of it ſelfe: And this is that which ſome men looke upon as Religion, which is meere Civili<g ref="char:EOLhyphen"/>tie.</p>
+            <p>
+               <note place="margin">2. What Religion in refer<g ref="char:EOLhyphen"/>rence to a Law with<g ref="char:EOLhyphen"/>out, and not within is.</note> Secondly, for that Religion which is in referrence to a Law without, and not anſwering to a Law and a power of Love within, It is when men have not onely the light of Reaſon, but convicti<g ref="char:EOLhyphen"/>ons from the light of a Law, which ſets men at work, not rightly underſtanding this Law without, from the power and ſpirit of a Law within;<note place="margin">Rom. 3.2.</note> they in conform<g ref="char:EOLhyphen"/>ing to it, to ſeeke good by it, they one<g ref="char:EOLhyphen"/>ly worke in a low legall way, ſeeking life by working, and not to acknowledge life in their working: This is ſuch a Re<g ref="char:EOLhyphen"/>ligion that men who live in it, may fall from it. But thoſe Saints who act in Re<g ref="char:EOLhyphen"/>ligious acts ſutable to Chriſt, the Law is written in them, that is a Rule for them; and the Law that regulates them in an act, is the Spirit, and Life, and Power of the act; and ſo Chriſt is All in all.</p>
+            <pb n="43" facs="tcp:119519:25"/>
+            <p>
+               <note place="margin">3. What Religion in refer<g ref="char:EOLhyphen"/>rence to a Letter is.</note> Thirdly, For that Religion which is in referrence to a Letter, It is only when men by the ſtrength of Reaſon, trade with the Letter, to finde out the ſpirit; and the Spirit doth not trade with their ſpirits: And the truth is, this kinde of way of eyeing Truth, admits of ſtrange conſtructions that vary from Truth; and that is the cauſe why one man is Legall, and another man ſeemes to be Evange<g ref="char:EOLhyphen"/>licall, but it is only in the notion, and not in the power.</p>
+            <p>If you aske me then, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> Wherein is the difference between a Saint, and them?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> My <hi>Anſwer</hi> is, That Saints underſtand the Letter from the Spirit;<note place="margin">Iohn 14.26.</note> But the o<g ref="char:EOLhyphen"/>ther goe about to apprehend the Spirit, onely from the Letter; And in ſo acting they act in a Region below that Divine glory that lives in the minde of the Spi<g ref="char:EOLhyphen"/>rit.<note place="margin">Rom. 8.27</note> And herein doth the priviledge of the Saints tranſcend the apprehenſion of all men that doe not enjoy it: the ſaints are comprehended in the Spiritualitie of the Letter, while they underſtand the Letter: The Spirit preacheth Divinitie within, and that makes them underſtand
+<pb n="44" facs="tcp:119519:26"/>Divinity without. But no man knowes this, but he that doth enjoy it.</p>
+            <p>What then ſhall wee thinke of thoſe men that ſay, No man can declare the minde of God, but hee that knowes the Originall?</p>
+            <p>If by the Originall they mean the O<g ref="char:EOLhyphen"/>riginall in the Letter; Wade as farre as you can in that Fountaine, you are but ſtill in the Letter. But if you ſpeak true<g ref="char:EOLhyphen"/>ly of the Originall, I ſay, No man can preach or declare God, till hee knowes the Originall: But then we muſt know what the Originall of the Letter is, It is the Spirit.</p>
+            <p>If you aske mee, <label type="milestone">
+                  <seg type="milestoneunit">Quest. </seg>
+               </label> What is the Originall of the Breathings of the Spirit?</p>
+            <p>I tell you, <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is the heart of Jeſus. Therefore hee knowes God, from God: hee knowes Truth from the Originall: And hee that knowes Chriſt, in the en<g ref="char:EOLhyphen"/>joyment of Chriſt; hee knowes the Originall, and the Originall knowes him.</p>
+            <p>If you <hi>Object,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> and ſay, This is but a poore ground for men to dwell upon.</p>
+            <pb n="45" facs="tcp:119519:26"/>
+            <p> I <hi>Anſwer,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſvv. </seg>
+               </label> I had rather have Gods promiſe to bee my ground, in teaching mee by his Spirit, then my labouring in the Letter to underſtand the Spirit. But I ſhall ſay no more of this, But the Lord teach us from himſelf.</p>
+            <p>Onely in the way of Vſe, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> Let mee ſpeak a word to you; Many of you ſeem to have Religious actions performed by you, I deſire wee may take notice from what fountaine theſe ſtreames flow: Is Reaſon the deepeſt Fountaine? Is a Law without the Well-head? Is the Letter the higheſt Region? Poore Soule, Thou tradeſt too low, to live like a Saint: I tell thee (though the world ſcoffs at Truth in the Spirituallity) Owne Truth in the Spirit, and thou ſhalt underſtand Truth in the Letter: But wee can never owne Truth in the Spirit, till the Truth in the Spirit ownes us.</p>
+            <p>But Behold a wonder, The fruits in a ſaint, and acts of Religion here upon the earth, the head of them is as high as Heaven; The Originall of the appre<g ref="char:EOLhyphen"/>henſions of ſaints, is as high, as ſpi<g ref="char:EOLhyphen"/>rituall, as glorious as the Heart of
+<pb n="46" facs="tcp:119519:27"/>Chriſt. And ſo much of this thing.</p>
+            <p>Onely one word of Vſe more from the Conſectarie, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> To inform us what to thinke of thoſe men that profeſſe them<g ref="char:EOLhyphen"/>ſelves to be the Garden of Chriſt, and yet bring forth thornes inſtead of Figgs, and Bryars inſtead of Lillies? Vnſavory ſpeeches, Vnſutable carryages doth not become a ſaint: Who! Thou who dwelleſt in the heart of Chriſt, Canſt thou ſinne againſt him? It cannot bee. Truely ſinne is unſutable in any man; but in a ſaint, ſinne lookes out of mea<g ref="char:EOLhyphen"/>ſure ſinfull. And I know, the know<g ref="char:EOLhyphen"/>ledge of Love within, tyes more then a Lavv without; Let it ſo appeare in all your carriages, yee Sonnes of Love. But I ſay noe more of this thing.</p>
+            <p>The third Conſectarie ariſeth from the third thing,<note place="margin">Conſect. 3.</note> which was this, That the church of Chriſt may fitly be called a gar<g ref="char:EOLhyphen"/>den, becauſe there is more ſpecial care ta<g ref="char:EOLhyphen"/>ken of them, and watchfulnes over them, then of other places, as you may ſee Eſa. 27. From thence obſerve this Conſectary, That you that are Chriſts, you are under his ſpecial protection. All in a ſence may
+<pb n="47" facs="tcp:119519:27"/>bee ſaid to ſtand by him, and receive good from him: But you in a more e<g ref="char:EOLhyphen"/>ſpeciall manner; His eye is over you; His heart is with you, His thoughts of good runne out for you; there is nothing that doth befall you, that can take you from under the care of Chriſt; All af<g ref="char:EOLhyphen"/>flictions in words, in actions from the men of the world are ordered by Chriſt, as a potion; in which potion there are the ſweet ingredients of his owne Loves.</p>
+            <p>This ſhould teach us, Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> To a<g ref="char:EOLhyphen"/>void all carnall and corrupt care for our ſelves, caſting all our cares upon him that careth for us, 1 Pet. 5.7. Matth. 6.25. Phil. 4.6.</p>
+            <p>Truely friends, Care in the uſe of meanes, and not caring for the ſucceſſe, but leaving that to God, takes away the burthen and Labour of all undertakings; ôh how may a Saint live? His life is without Care: I meane not the care in uſe of meanes; but in the ſucceſſe of meanes, which alone belongs to Jeſus Chriſt.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This ſhould teach us not
+<pb n="48" facs="tcp:119519:28"/>to feare the ſecret and cunning plottings and contrivings of all wilde Boars and Foxes, who endeavour to undermine and weary the flock of Chriſt; Know this, Chriſts care is for you, his eye is over you,<note place="margin">Cant. 8.3.</note> his Arme of love is under you; he takes care ſo as to undertake for you, to engage with you, ſo as to get the victo<g ref="char:EOLhyphen"/>ry (Nay,<note place="margin">1 Cor. 15.57.</note> its got already) for you; there<g ref="char:EOLhyphen"/>fore wee are ſaid to bee more then Con<g ref="char:EOLhyphen"/>querours:<note place="margin">Rom. 8.37.</note> Oh! What need a Saint fear, who ſtands by a conquering ſtrength, whoſe ſtrength is an eternall Chriſt?</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> This ſhould teach us to be reſolute without feare in the way of Chriſt;<note place="margin">a King. 6.16.</note> for hee that is with us, is more then they that are againſt us.</p>
+            <p>Oh friends, Endeavour not to worke out your ſafety by policie neglecting du<g ref="char:EOLhyphen"/>ty, but leave all your ſafety to him who is your life, being reſolute in your duty: What if men oppoſe? If God command, let us go on. What if men contrive? If Chriſt take care, let us not draw back: You are Chriſts Garden, hee watcheth over you night and day; There may ſome Foxes riſe up; but ſee what Chriſt
+<pb n="49" facs="tcp:119519:28"/>ſaith, Cant. 2.15. <hi>Take us the Foxes, the little Foxes, that ſpoile the Vines, for our Vines have tender grapes.</hi> But I ſay no more of that thing.</p>
+            <p>The fourth Conſectarie is raiſed from the laſt thing wherein Chriſts Church may fitly bee called a Garden;<note place="margin">Conſect. 4.</note> which was, That Chriſt takes great delight in it, and content in the injoyment of it: From thence obſerve this Conſectarie, That Chriſts delight, or the delight of Chriſt is in and with the heart of Saints: This ſame is not a new thing, but that which of old was declared concerning Chriſt, Prov. 8.31. <hi>Rejoycing in the ha<g ref="char:EOLhyphen"/>bitable part of the earth, and my delights were with the ſonnes of men.</hi> What Chriſt ſaith of himſelfe before wee were, hee expreſ<g ref="char:EOLhyphen"/>ſeth ſeverall times ſince wee are by him brought home to him: Chriſt loves us, and delights ſo to do: Chriſt lives in us, its his content to be there: Chriſt carries out our ſpirits in love to anſwer love: Chriſt delights to ſee the returnes of his own Beames, the fruits of his own love, the effects of his owne power: It is the joy of a Saint to dwell with Chriſt; and
+<pb n="50" facs="tcp:119519:29"/>it is no leſſe but the joy and content of Chriſt to live with a ſaint: Where a ſaint is,<note place="margin">Iohn 17.22.</note> Chriſt muſt bee, for they are one: Where Chriſt is, the ſaint muſt bee, that they may behold his glory: Chriſt came downe to make out his highnes, through the lowneſſe of the fleſh,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 8.9.</note> that he might draw us up above the fleſh, into the glo<g ref="char:EOLhyphen"/>ry of the ſpirit: This was the work of Chriſt to which he was deſigned by God the Father, and thus to do was his meat and drinke: Hee takes ſuch delight in them, that hee will not, nor cannot with-hold any good from them: what God gives to Chriſt, Chriſt gives to a ſaint, as a fruit of his love, to them in whom his ſoule delights.</p>
+            <p>The Vſe of this may bee, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Firſt, To refreſh our ſpirits; what greater refreſh<g ref="char:EOLhyphen"/>ment can a ſoule have, then to bee de<g ref="char:EOLhyphen"/>lighted in, by him whom his ſoule loves? Chriſts love tranſcends yours; his delight in you, tranſcends your apprehenſions: Oh that we could alwaies be raviſhed with his loves: Certainly Friends, were we taken up more in this Fountain, we ſhould not bee troubled though the
+<pb n="51" facs="tcp:119519:29"/>ſtreames grow dry: What if outward relation faile, and externall accomodati<g ref="char:EOLhyphen"/>ons ceaſe? Chriſt lives, and in that hee lives, you ſhall live alſo, Joh. 14.19.</p>
+            <p>Truely friends, There is more in a pound, then can be in a penny; more in a pearle then can be in both, why then ſhould you be caſt down? Though the creatures frowne, Chriſt ſmiles: Its not much trouble to a woman eſpouſed to a man, though other men withdraw themſelves, if her husbands love conti<g ref="char:EOLhyphen"/>nue: Oh that it could be ſo amongſt the Saints.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This ſhould heighten our ſpirits to live at a higher rate then now we doe; Vpon no lower principles then the loves and delights of Chriſt; And the truth is (friends) we ſhould live more upon Chriſts delighting and loving us, then upon our delighting and loving Chriſt: One is the ſtreame, and the o<g ref="char:EOLhyphen"/>ther the Fountaine: One is but the fruit, the other the cauſe; Nay, it is that un<g ref="char:EOLhyphen"/>changeable foundation that ſtand<g ref="char:EOLhyphen"/>eth firme; as well to raiſe us when
+<pb n="52" facs="tcp:119519:30"/>wee fall, as to comfort us when wee ſtand.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> If Chriſt delight in us, It is but reaſon we ſhould delight in him; Chriſt in the givings out of his love to his ſpouſe, calls for love; It is all Chriſt calls for; and the truth is, it is but the fruit of his owne Vine; Deny him not his owne: Did Chriſt become low to make us high? or did he appeare in the lowneſſe of the fleſh to make out the heighth and glory of the ſpirit, that through that highneſſe wee might bee made high?</p>
+            <p>Oh you that are thus made high by him, My deſire is, That you would willingly bee made low for him: Mee thinks the ſtill ſtreames of Chriſts ſmiles ſhould carry us cheerefully through the worlds frownes. But I ſhall ſay no more of this Vſe, nor of this Conſecta<g ref="char:EOLhyphen"/>rie.</p>
+            <p>The other Conſectaries do ariſe from the third particular, and that was, How Chriſts Church appeares to bee Chriſts Garden: And that appeares from theſe foure Conſiderations,</p>
+            <pb n="53" facs="tcp:119519:30"/>
+            <p> Firſt, It is planted by him.<note place="margin">Conſect. <hi>1.</hi>
+               </note>
+            </p>
+            <p>Secondly, It is incloſed in him.</p>
+            <p>Thirdly, It is made fruitfull through the enjoyments of him.</p>
+            <p>Fourthly, It lookes like him.</p>
+            <p>Firſt, It is planted by him: From thence obſerve this Conſectarie, That Chriſts Church is Chriſts plant. And that this is a truth I have proved already. But the Vſes that we are to make of this truth, are theſe,</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> What ſhall we thinke of thoſe that goe to plant Churches, and not by Chriſt, but rather by the power of a Civil Law; which Lawes admits of alterati<g ref="char:EOLhyphen"/>on, and therefore ſo often as they are altered the Church muſt bee new plan<g ref="char:EOLhyphen"/>ted. And ſecondly, They are onely lawes that can reach the fleſh, and not the ſpirit; therefore not fit to plant a ſpirituall plant, as a choice piece for Je<g ref="char:EOLhyphen"/>ſus Chriſt. Therefore let all ſuch (as en<g ref="char:EOLhyphen"/>deavour thus to do) take heed what they doe; for in their going about thus to re<g ref="char:EOLhyphen"/>ſemble Chriſt, they will make them<g ref="char:EOLhyphen"/>ſelves obnoxious to men, and to Chriſt; and expoſe themſelves to the exerciſe of
+<pb n="54" facs="tcp:119519:31"/>the Kingly power of Chriſt; whoſe of<g ref="char:EOLhyphen"/>fice alone it is to plant his Chruch.</p>
+            <p>In the ſecond place, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This teacheth us the folly of thoſe men that goe about to pull up Chriſts plants; Let us conſider what they doe, firſt They goe about that which is impoſsible to be done; for can any diſanull or make void the worke of Chriſt? It is impoſſible: Therefore in ſo doing they will (in the cloſe) ren<g ref="char:EOLhyphen"/>der themſelves not wiſe, but fooles. Be<g ref="char:EOLhyphen"/>ſides, In theſe their actings they act a<g ref="char:EOLhyphen"/>gainſt Chriſt, in going about to unplant Chriſts plants: And when the Lord ſaith,<note place="margin">Pſal. 105.15.</note> 
+               <hi>Touch not mine annointed;</hi> this is al<g ref="char:EOLhyphen"/>ſo intended, as well as immediate op<g ref="char:EOLhyphen"/>poſitions againſt Chriſt; for a ſaint is Gods annointed as well as Chriſt.<note place="margin">2 Cor. <hi>1.21.</hi>
+               </note>
+            </p>
+            <p>In the third place, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> This ſhould com<g ref="char:EOLhyphen"/>fort all the ſaints: It is impoſſible for that tree to be made barren which Chriſt planteth, eſpecially which hee planteth by the rivers of water: You are planted in the heart of Chriſt, and thoſe ſweet ſtreames of eternall glory that runs forth from God to us through Chriſt, are the watering ſtreams: And what if the ſon
+<pb n="55" facs="tcp:119519:31"/>of perſecution without looks upon you? the Sonne of righteouſneſſe lives in you,<note place="margin">Malec. 4.2.</note> which brings healings for you. But I ſhall ſay no more of this thing.</p>
+            <p>The next Conſectarie doth ariſe from the ſecond thing,<note place="margin">Conſect. <hi>2.</hi>
+               </note> VVhy the Church of Chriſt is called Chriſts Garden; which was, Becauſe they are incloſed in him. From thence obſerve this Conſectarie, That it is the priviledge of the Saints not onely to be of, but actually and really to live in Jeſus Chriſt. This I have ſpoken largely of already. But that which we may learne from this, is,</p>
+            <p>Firſt To teach us what the reaſon is, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> why few men underſtand the life of a Saint, It is, Becauſe they goe to under<g ref="char:EOLhyphen"/>ſtand it where it is not: Every thing is underſtood rightly when it is underſtood in that Element where it lives: It is impoſ<g ref="char:EOLhyphen"/>ſible for men that live below Chriſt, to underſtand the glory of that life that ſaints enjoy in Chriſt: It is high, it is glorious, it is full of miſterious wonders: their life is in Chriſt, their life is very Chriſt;<note place="margin">Iohn <hi>14.6.</hi>
+               </note> their life is cauſed by Chriſt, their life is hid with God in Chriſt:<note place="margin">Col. 3.3.</note> All this ſheweth that it
+<pb n="56" facs="tcp:119519:32"/>is a high and glorious miſtery: There<g ref="char:EOLhyphen"/>fore this ſhould teach you not to wonder though men ſpeak ſo darkely of it, and have ſo little affection to it: It cannot be that the Earthly, as Earthly, ſhould owne the Heavenly: It cannot bee that thoſe that are in the fleſh, as in the fleſh, ſhould owne the ſpirit: But when I ſpeak thus of the fleſh, I doe not onely meane that which men commonly call the fleſh; but that which the Apoſtle intendeth by fleſh, when he ſaith, <hi>We knew Christ af<g ref="char:EOLhyphen"/>ter the fleſh, but now know wee him ſo no more.</hi>
+               <note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 5.16.</note>
+            </p>
+            <p>Now (Deareſt friends) VVhat need you care or be troubled though they that are after the fleſh, perſecute you that are after the ſpirit? See what the Apoſtle ſaith, Gal. 4.29. <hi>For as then he that was after the fleſh perſecuted him that was after the Spirit, even ſo it is now.</hi> But I ſhall ſay no more of that thing, but only this, In the midſt of all trouble conſider that you are wrapt up above all trouble, in the incloſure of him who is your life.</p>
+            <p>The third Conſectary doth ariſe from the third particular,<note place="margin">Conſect. 3.</note> why the Church of
+<pb n="57" facs="tcp:119519:32"/>Chriſt is called Chriſts Garden, which was, becauſe they bring forth fruit through the enjoyments of him. From whence obſerve this Conſectary, That in-comes from Chriſt, is the cauſe of our bringing forth fruit to Chriſt; Every effect is pro<g ref="char:EOLhyphen"/>duced by a cauſe ſutable to it ſelfe; All our loves, longings, deſirings and gaſp<g ref="char:EOLhyphen"/>ings after Jeſus Chriſt, is not a Cauſe, but a fruit of Chriſt as the onely cauſe.</p>
+            <p>The Vſe of this is, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Firſt (Deare friends) Look not upon your deſires, and your loves, as cauſing Chriſt to come in<g ref="char:EOLhyphen"/>to your ſpirits; but as that which flowes from Chriſt, being already in you.</p>
+            <p>And therefore what ſhall wee think of thoſe men who without Chriſt, ſeeke in their prayings, lovings and longings, to gaine a Chriſt? Deare Soule know, Chriſt is taken with nothing, but what lookes like himſelfe; and nothing lookes like him, but what is produced by him.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This ſhould alſo teach us to owne things as Chriſt ownes them: He ownes that love, longing and deſire
+<pb n="58" facs="tcp:119519:33"/>in us, that flowes from himſelfe; And ſo ought wee.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> This ſhould teach us to give Chriſt the glory,<note place="margin">Ioh. 15.4.</note> as of our priviledges in him, ſo alſo of all the duty wee performe to him,<note place="margin">
+                  <hi>Gal.</hi> 5.22.</note> beeing but fruits of in-comes from him.</p>
+            <p>Fourthly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> This informes us what a priviledge it is to performe duties to Chriſt, when as they flow from an en<g ref="char:EOLhyphen"/>joyment of Chriſt:<note place="margin">
+                  <hi>Eph.</hi> 1.5, 6.</note> firſt There is a cer<g ref="char:EOLhyphen"/>taine acceptance with him, for he can<g ref="char:EOLhyphen"/>not chuſe but love, and like the returnes of his owne love. Beſides it is a privi<g ref="char:EOLhyphen"/>ledge in this, That we are not to carry the power of duty,<note place="margin">
+                  <hi>Luke</hi> 4.32.36.</note> but the power of du<g ref="char:EOLhyphen"/>ty carries us to it ſelfe; How eaſie muſt that command be when the party com<g ref="char:EOLhyphen"/>manding, is the party performing? By this not onely you, but all may ſee how ſweetly, how Evangelically, how hea<g ref="char:EOLhyphen"/>venly thoſe Soules act, that act from an enjoyment of Chriſt:<note place="margin">
+                  <hi>Eph.</hi> 1.19, 3.20.</note> they doe not on<g ref="char:EOLhyphen"/>ly act to, but in the power of Chriſt; they doe not only act to heaven, but from the power of heaven.</p>
+            <p>In the laſt place, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> This may inform us,
+<pb n="59" facs="tcp:119519:33"/>when the time is of a ſaints fruitfullneſſe, and of a ſaints barrenneſſe: If Chriſt with-hold his diſplayings of love, life, and glory in us, ſo farre there is a ceſſation of heavenly actings by us; and this is a Saints barren time. And when Chriſt is pleaſed to bring downe the diſcove<g ref="char:EOLhyphen"/>ries of the hidden myſteries of Divine glory, to raiſe up a poore ſpirit into the glory of it ſelfe, It no ſooner ſees, but it doth conceive; it no ſooner lookes, but it preſently loves; and as it loves, ſo it longs for a perfection of enjoyment of the thing beloved. But I ſay no more of this Vſe, nor of this Conſectarie.</p>
+            <p>The laſt Conſectarie doth ariſe from the laſt thing,<note place="margin">Conſect. <hi>4.</hi>
+               </note> Why the Church of Chriſt is called Chriſts Garden; which was, Becauſe they looke like him. From thence obſerve this Conſectarie, That a ſaint as a ſaint, as he is of,<note place="margin">1 <hi>Ioh.</hi> 4.17.</note> ſo alſo he looks like Jeſus Chriſt. VVould you ſee the face (not of the earthly <hi>Adam,</hi> but) of him that is from heaven? VVould you ſee his heart? VVould you ſee the glo<g ref="char:EOLhyphen"/>rious earnings of the eternall bowells of love and ſweetneſſe? You may read this
+<pb n="60" facs="tcp:119519:34"/>in the heart of a ſaint, who is ſprinckled, enriched, and garniſhed with theſe ſweet beames of theſe Divine loves, even the heart of Jeſus.</p>
+            <p>The Vſe of this may be, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> firſt To ſhew us the ſtrange conceit of ſome men, who ſay they love the heart of Chriſt, and yet love not the ſpirit of ſaints; Poor ſoule, thou mayeſt love the heart of Chriſt in the fleſh,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 3.26.</note> but not in the ſpirit: if thou doſt not love the ſpirit of ſaints: God gave downe the highneſſe of his glory,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ioh.</hi> 4.7.8.</note> and the miſtery of his love in the comming of Chriſt to us: the image and likeneſſe of his glory was given to the ſaints by the commings in of Chriſt in them: You may read the firſt <hi>Adam</hi> in the heart of every carnall man; you may read alſo the ſecond <hi>Adam</hi> in the heart of the ſpi<g ref="char:EOLhyphen"/>rituall man: VVaſt thou ever wrapt up into thoſe hidden treaſures, I mean the Boſome of Chriſt? Didſt thou there read his Name and Nature? Look and behold, Is not the like in a ſaint? How can you ſleight, condemne, and judge him that loves, and lookes like Chriſt?</p>
+            <p>The ſecond Vſe of this, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> is to ſaints, Is
+<pb n="61" facs="tcp:119519:34"/>it of you I ſpeake, that looke like Chriſt? As your heart doth repreſent Chriſt ſpi<g ref="char:EOLhyphen"/>ritually in the ſpirit,<note place="margin">
+                  <hi>Phil.</hi> 1.27.</note>
+               <note place="margin">1 <hi>Pet.</hi> 1.15.2.11.</note> ſo let your actions preſent Chriſt glorious and lovely our<g ref="char:EOLhyphen"/>wardly amongſt men.</p>
+            <p>It is the duty of ſaints not to cover but uncover Chriſt in all their performances; and had I time, I might tell you what the Apoſtle meaneth, when he ſaith, <hi>A man ſhould not pray with his head covered:</hi>
+               <note place="margin">1 <hi>Cor.</hi> 11.4.</note> But I ſhall ſay no more, but (as he ſaith) <hi>The head of every man is Ieſus Chriſt;</hi>
+               <note place="margin">verſ. <hi>3.</hi>
+               </note> and there<g ref="char:EOLhyphen"/>fore not onely in your Praying, but in your practiſing Cover not, but uncover the glory of Chriſt, by a ſaint-like walk<g ref="char:EOLhyphen"/>ing amongſt men. But I ſhall ſay no more of this Conſectarie.</p>
+            <p>I ſhould now ſpeak ſomething of ſome other Vſes that I might draw from the whole concluſion, That Chriſts Church is Chriſts Garden.</p>
+            <p>But I have a deſire, though I doe not enlarge my ſelfe upon, yet to name the reſt of the Concluſions that ly in the text, and leave them to your thoughts, having not time to declare my ſelfe, by reaſon of the diſturbance of thoſe that are now come about the houſe.</p>
+            <pb n="62" facs="tcp:119519:35"/>
+            <p> But to name the Concluſions to you, Let us read the words againe, <hi>Thou that dwellest in the Gardens the Companions hear<g ref="char:EOLhyphen"/>ken to thy voice: Cauſe me to heare it.</hi>
+            </p>
+            <p>VVherein you may remember, I told you, there is two things conſiderable, Firſt, A ſweet acknowledgement or de<g ref="char:EOLhyphen"/>claration.</p>
+            <p>Secondly, A ſweet deſire or thirſt<g ref="char:EOLhyphen"/>ing.</p>
+            <p>From the firſt, The ſweet acknow<g ref="char:EOLhyphen"/>ledgement or declaration, you may re<g ref="char:EOLhyphen"/>member I told you there is three things conſiderable.</p>
+            <list>
+               <item>Firſt the party acknowledging.</item>
+               <item>Secondly, The matter acknowled<g ref="char:EOLhyphen"/>ged.</item>
+               <item>Thirdly, The manner of the acknow<g ref="char:EOLhyphen"/>ledgment.</item>
+            </list>
+            <p>The firſt, which is the party acknow<g ref="char:EOLhyphen"/>ledging, I have finiſhed.</p>
+            <p>And for the ſecond, The matter ac<g ref="char:EOLhyphen"/>knowledged; I have given you ſeverall obſervations from it: And the reſt that are behinde, I ſhall onely name to you, which are theſe,</p>
+            <p>One is from this word, <hi>Thou that
+<pb n="63" facs="tcp:119519:35"/>dwelleſt in the Gardens;</hi> Obſerve, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label>
+            </p>
+            <p>That Chriſt in a ſpeciall manner dwel<g ref="char:EOLhyphen"/>leth with his own. Or thus,<note place="margin">1 <hi>Cor</hi> 16.16.</note> 
+               <note place="margin">Iohn 14.23</note>
+            </p>
+            <p>Chriſts reſidence is in his Church.</p>
+            <p>And then again from this word, <hi>Thou that dwelleſt in the Gardens, the Companions hearken to thy voice:</hi> Thence obſerve theſe two Concluſions,</p>
+            <list>
+               <item>Firſt, <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>1</label> That thoſe that are called home by Chriſt, they are called into a friendly and familiar acquaintanee with Chriſt.<note place="margin">
+                     <hi>Ioh.</hi> 15.14.15.</note>
+               </item>
+               <item>Secondly, That it is as the propertie, <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> ſo the priviledge of the friends of Chriſt to hearken to Chriſt.<note place="margin">
+                     <hi>Ioh.</hi> 10.3.</note>
+               </item>
+            </list>
+            <p>But I ſhall not at this time ſpeake any thing of theſe things, And ſo I paſſe over as the party acknowledging, ſo the mat<g ref="char:EOLhyphen"/>ter acknowledged.</p>
+            <p>And now I ſhould come to ſpeake ſomething of the manner of the ac<g ref="char:EOLhyphen"/>knowledgment;<note place="margin">
+                  <hi>3</hi> The man<g ref="char:EOLhyphen"/>ner of the acknow<g ref="char:EOLhyphen"/>ledgement</note> Of the free and friend<g ref="char:EOLhyphen"/>ly ſpirit that did appeare in the Spouſe whilſt ſhe acknowledgeth Chriſt. But I paſſe that over.</p>
+            <p>And ſo I come to the ſecond thing in the words, which is, The ſweet deſire,<note place="margin">2 The de<g ref="char:EOLhyphen"/>ſire or thirſting.</note>
+               <pb n="64" facs="tcp:119519:36"/>or thirſting of the Spouſe in theſe words, <hi>Cauſe me to heare it.</hi> VVherein you may obſerve theſe things,</p>
+            <p>Firſt, The party Longing, That is a ſoule poſſeſt with Chriſt: from thence obſerve,</p>
+            <p>That it is the propertie of a ſoule that knowes Chriſt, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> to long for him.<note place="margin">Pſal. 9.10.</note>
+            </p>
+            <p>Secondly, From that which lyeth in the conjunction betweene the acknow<g ref="char:EOLhyphen"/>ledgment, and the deſire, in theſe words, <hi>The Companions hearken to thy voice; Cauſe mee to heare it.</hi> Obſerve this Conclu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>That ſo farre as a ſoul knowes Chriſt, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> ſo farre in that knowing is a ſpirituall longing after Chriſt. Beholding Chriſt, begets and cauſeth the ſoule according to its beholding to act towards Chriſt. And ſo I paſſe over that.</p>
+            <p>Thirdly, You may conſider the matter deſired; and that is in theſe words, <hi>Cauſe mee to heare it.</hi> VVherein there is ſome<g ref="char:EOLhyphen"/>thing included, as well as what is here expreſſed: And that which is included is in theſe words, <hi>Cauſe mee;</hi> Implying
+<pb n="65" facs="tcp:119519:36"/>that they could not ſpiritually hearken to Chriſt, unleſſe they were ſpiritually cauſed by Chriſt. From thence ob<g ref="char:EOLhyphen"/>ſerve this Concluſion,</p>
+            <p>That to make a ſoul hearken to Chriſt, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> is the ſole worke of Chriſt himſelfe.</p>
+            <p>And then from that which is expreſ<g ref="char:EOLhyphen"/>ſed in theſe words, <hi>Cauſe mee to heare it.</hi> From thence obſerve,</p>
+            <p>Firſt, That to hearken to Chriſt is a matter worth deſiring. <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label>
+            </p>
+            <p>Secondly, That no ſoule doth right<g ref="char:EOLhyphen"/>ly underſtand what it is to hearken to Chriſt, but knowes, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> and in its knowing doth acknowledge that all power is from Chriſt; and in this acknowledging ſeekes for Power to act ſutable to the ac<g ref="char:EOLhyphen"/>knowledgment, in deſiring power from Chriſt to hearken to Chriſt.</p>
+            <p>I might make divers Vſes of theſe Concluſions: But (Dear friends) I hope you that enjoy Chriſt within, and have Truth preached to you from it ſelfe, are and will bee made able to make uſe of Truth ſutable to it ſelfe.</p>
+            <p>And ſeeing our time is ſhort, and op<g ref="char:EOLhyphen"/>poſitions encreaſe,<note place="margin">1 Cor. 7.29.</note> wee not knowing
+<pb n="66" facs="tcp:119519:37"/>how ſoone wee may bee called to ſuffer for Truth; I ſhall therefore leave you all to Truth;<note place="margin">Iohn 14.6.65.5.</note> Deſiring that Truth may dwell in you, and you in Truth; ſo that in all things, Truth may be honour<g ref="char:EOLhyphen"/>ed by you, may be own'd and not denyed in any acti<g ref="char:EOLhyphen"/>on done by you.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="treatise">
+            <pb n="67" facs="tcp:119519:37"/>
+            <head>WISEDOME Juſtified of her CHILDREN.</head>
+            <epigraph>
+               <q>
+                  <bibl>MATTHEVV 11. the laſt part of the 19. verſe.</bibl>
+                  <p>
+                     <hi>VViſedome is juſtified of her Chil<g ref="char:EOLhyphen"/>dren.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the 16. verſe Chriſt comes to diſcover the generation of the Scribes and Phariſees, where he compares them to chil<g ref="char:EOLhyphen"/>dren that call to each o<g ref="char:EOLhyphen"/>ther, ſaying, <hi>Wee have piped, and yee have not danced: wee have mourned, and ye have not lamented,</hi> verſe 17. and ſo hee comes
+<pb n="68" facs="tcp:119519:38"/>in the 18. and 19. verſes, to make appli<g ref="char:EOLhyphen"/>cation of theſe darke expreſſions wherein he doth diſcover the croſſe diſpoſition of the Scribes and Phariſees, ſaying, verſe 18. <hi>Iohn came neither eating nor drinking, and they ſaid that he had a devil; but Chriſt comes,</hi> and preſents himſelfe in an other forme; he comes <hi>eating and drinking,</hi> but preſently they cry out, <hi>hee is a friend of Publicans and ſinners:</hi> before they ſeeme to diſlike <hi>Iohn,</hi> upon this ground that he did <hi>neither eat nor drinke,</hi> and Chriſts acti<g ref="char:EOLhyphen"/>ons ſeeme to ſpeak out thus much; Doe you object againſt <hi>Iohn,</hi> becauſe hee does not eat? I will eat: But the Scribes and Phariſees were ſo oppoſite in their ſpi<g ref="char:EOLhyphen"/>rits to Truth, that they could not fancy any forme where Chriſt was preſented, ſo as to affect Truth. Now theſe words that I have read unto you, are a conclu<g ref="char:EOLhyphen"/>ſion of Chriſt, upholding of them, wherein he ſaith, (verſe 19.) <hi>But wiſdome is juſtified of her Children:</hi> which words is an affirmation of grace, brought forth in oppoſition to corrupt nature: the words are excluding, as well as including; ex<g ref="char:EOLhyphen"/>cluding the world, and including Saints:
+<pb n="69" facs="tcp:119519:38"/>The world as accuſing and condemn<g ref="char:EOLhyphen"/>ing Chriſt; Saints as owning and juſti<g ref="char:EOLhyphen"/>fying Chriſt: that which doth exclude the world, lies in this word, [<hi>But</hi>] Thence obſerve this Concluſion, before I come to the words themſelves.</p>
+            <p>Though all outward occaſions be ta<g ref="char:EOLhyphen"/>ken away by truth, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <note place="margin">Luk. 7.32.33.</note> yet ſtill the ſpirit of the world will not juſtifie but condomne Truth.<note place="margin">Mat. 10, 12.</note>
+            </p>
+            <p>
+               <hi>Iohn comes neither eating nor drinking,</hi> they have ſomething againſt him, cry<g ref="char:EOLhyphen"/>ing out <hi>he hath a devil:</hi> Chriſt comes an<g ref="char:EOLhyphen"/>other way, and takes away that occaſion, for he <hi>comes eating and drinking,</hi> but that wil not cauſe them to affect Truth, but as they accuſe the one, ſo they accuſe the o<g ref="char:EOLhyphen"/>ther: as Chriſt ſaid then, we may ſay now, The ſpirit of Saints are alwaies too high,<note place="margin">16 or. 11.15.</note> or too low, in the judgement of the world:<note place="margin">Acts 2.13.</note> If Saints rejoyce in their ſoule refreſhings they enjoy by Chriſt, then they <hi>are drunke with new wine,</hi> or they ſay of them, as they ſaid of <hi>Iohn</hi> (in another caſe) <hi>he hath a devil;</hi> or if they groan un<g ref="char:EOLhyphen"/>der ſinne, then the world cryes out <hi>they are fooliſh or mad:</hi> and thus the ſpirit of
+<pb n="70" facs="tcp:119519:39"/>the world will ſtill except againſt Truth, and they will ſeeme to take offence at ſome externall acting, to raile againſt the internall glory of wiſedome, ſaying, I was not againſt ſuch men and women as they were Godly (though the truth is, that is their chiefeſt ground) but one cries out, I cannot love ſuch a man or woman becauſe they are Presbyterians; others cries out they cannot affect ſuch and ſuch, becauſe they are Independents: this bit<g ref="char:EOLhyphen"/>terneſſe the Devil hath caſt in amongſt men, and men would ſeeme to cover it, by laying the difference on the externall forme, rather then in that ſpirituall dif<g ref="char:EOLhyphen"/>ference that is betwixt them and Chriſt; but the truth is, were all outward occa<g ref="char:EOLhyphen"/>ſions in externall formes removed, yet the world cannot love,<note place="margin">Mat. 10.22.</note> but muſt condemne Truth.<note place="margin">Mark 13 13.</note>
+            </p>
+            <p>The firſt Reaſon is, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Becauſe there is an antipathie betweene the ſpirit of the world,<note place="margin">Rom. 8.<hi>5.6, 7, 8, 9.</hi>
+               </note> and the ſpirit of Saints: the one is the ſpirit of Chriſt, the other is the ſpi<g ref="char:EOLhyphen"/>rit of the Devil: and this antipathy is expreſſed by God himſelfe, Gen. 13.15. where he ſaith, <hi>I have put enmitie betweene
+<pb n="71" facs="tcp:119519:39"/>the ſeede of the woman, and the ſeede of the ſerpent;</hi> the ſeed of the ſerpent is the ſpirit of the world; and the ſeede of the wo<g ref="char:EOLhyphen"/>man is Jeſus Chriſt: The ſpirit of the world as it is the worlds ſpirit, and the ſpirit of Chriſt, cannot cloſe; therefore we may take up thoſe expreſſion <hi>vvhom God hath joyned together none can ſeparate;</hi> and thoſe ſpirits that God have ſeparated none can joyne together.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> The ſpirit of the world and the ſpirit of Chriſt are not like each other; therefore the ſpirit of the world cannot love Chriſt, everything loves its like; therefore by the rule of contraries,<note place="margin">Iohn <hi>8.23.</hi>
+               </note> they will hate that which is unlike them<g ref="char:EOLhyphen"/>ſelves.<note place="margin">Rom. <hi>8.5.</hi>
+               </note>
+            </p>
+            <p>The third Reaſon which will further demonſtrate the thing, is this, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> if all out<g ref="char:EOLhyphen"/>ward occaſions were removed that the world cries out againſt, yet ſtill the world would hate Saints: if an Inde<g ref="char:EOLhyphen"/>pendent turne Presbyterian, or Presby<g ref="char:EOLhyphen"/>terian turne Independent, if ſo they ap<g ref="char:EOLhyphen"/>peare Godly, the world will hate them; but if they appeare in either of theſe formes, ſo they ſute with the ſpirit of the
+<pb n="72" facs="tcp:119519:40"/>world, the world will love them; but if Godly, the world will hate them, and the reaſon is, <hi>becauſe they are not of the vvorld,</hi> Ioh. 15.19.</p>
+            <p>The firſt Vſe is to informe us, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> that no uniformity without can cauſe peace with<g ref="char:EOLhyphen"/>in the ſpirit of the world towards Saints: doe they hate <hi>Iohn</hi> becauſe <hi>hee eats not?</hi> Chriſt takes away this occaſion, and comes <hi>eating,</hi> yet their hatred is the ſame: If this be ſo: then this ſhewes the folly of thoſe men that thinke becauſe of an uni<g ref="char:EOLhyphen"/>formity without, they ſhall have peace with the ſpirits of the world: this cleer<g ref="char:EOLhyphen"/>ly diſcovers that theſe men underſtand not where the difference lyeth; it is not in the forme without, but in the ſpirit within.</p>
+            <p>This ſhews alſo the folly of thoſe pro<g ref="char:EOLhyphen"/>feſſors who thinketo gaine the love of the world, by changing their formes, which is impoſſible, if they appeare God<g ref="char:EOLhyphen"/>ly; for if they appeare Godly, either in a Presbyteriall or Independent form, the world will hate you, or in the deniall of either of them, you ſhall enjoy no bet<g ref="char:EOLhyphen"/>ter: therefore for a concluſion, <hi>If any lire
+<pb n="73" facs="tcp:119519:40"/>Godly in Chriſt Ieſus, they muſt ſuffer perſecu<g ref="char:EOLhyphen"/>tion.</hi> 2. Tim. 3.12.</p>
+            <p>The ſecond Vſe is of Exhortation, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> to exhort all Saints, not to think it ſtrange that the world condemne them;<note place="margin">
+                  <hi>Ioh.</hi> 15.18.20.</note> is truth hated in the Fountaine,<note place="margin">Mat. 10.24.25.</note> and doe you thinke it ſhall be loved in the ſtreames? it is impoſſible; doth the world hate Chriſt? and do the Saints think to bee beloved of the world; that's a contra<g ref="char:EOLhyphen"/>diction; therefore this ſhould alſo com<g ref="char:EOLhyphen"/>fort thoſe, who ſuffer not as evil-doers, but onely for holding forth the truth of Chriſt; Let ſuch remember what a na<g ref="char:EOLhyphen"/>turaliſt ſaid in an other cauſe: <hi>It is the Crowne of a wiſe man to bee hated of a foole, for ſpeaking wiſely;</hi> and I am ſure the ground why the world hates Saints, is becauſe ſaints in their words and actions ſpeak forth the goodneſſe and wiſedom of God amongſt men: God is pleaſed to worke great things in them, and great things by them; and we may ſay, when the world ſcornes and impriſons Saints, as Chriſt ſaid in another caſe, <hi>for which of the good vvorkes</hi> that God hath done in them <hi>doe they impriſon them?</hi> But they are
+<pb n="74" facs="tcp:119519:41"/>apt to excuſe themſelves, as the Jewes did to Chriſt, ſaying, <hi>It is not for thy good vvorks, but becauſe thou blaſphemeſt:</hi> ſo they are apt to ſay, we doe not oppoſe or im<g ref="char:EOLhyphen"/>priſon you for any good wrought in you, or done by you; but becauſe you take upon you to declare the minde of God, and walke in this or that kinde of form in your profeſſing God, as a Presby<g ref="char:EOLhyphen"/>teriam, or an Independent form: the truth is, the world cannot bear the weight and worth of a Saints ſpirit, though(poor ſoules) they thinke to cover themſelves and their practiſes,<note place="margin">Eſa. 66.5.</note> with the afore-named things,<note place="margin">
+                  <hi>Luke</hi> 20.19, 20, 21.22.</note> yet God will one day uncover them:<note place="margin">Mat. 10.<hi>26.</hi>
+               </note> but let this comfort Saints in the conſideration, that though the world condemns, yet <hi>Wiſedome is juſtified of her children.</hi>
+            </p>
+            <p>And ſo I come to the words of the text, which is a ſweet affirmation; and vvee may obſerve ſomething from the party affirming, and the matter after<g ref="char:EOLhyphen"/>ward, and the manner of the affirming; with the occaſion and the end of it: but we ſhall draw up all into one concluſion, and that is this,</p>
+            <pb n="75" facs="tcp:119519:41"/>
+            <p> It is the property of the ſonnes of wiſedome, <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> and them onely to juſtifie wiſedome.<note place="margin">Luke 7.35.</note>
+            </p>
+            <p>For the better underſtanding of this concluſion, I ſhall obſerve this me<g ref="char:EOLhyphen"/>thod,</p>
+            <p>Firſt, To ſhew you what is meant by wiſedome.</p>
+            <p>Secondly, What is meant by juſtify<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Thirdly, What is meant by wiſedomes Children.</p>
+            <p>Fourthly, The Reaſons why none but wiſedoms children can juſtifie wiſe<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Fifthly, The Vſe, and applyca<g ref="char:EOLhyphen"/>tions.</p>
+            <p>Firſt, Of the firſt, What is meant by wiſedome, and in that wee ſhall obſerve two things,</p>
+            <p>Firſt, Who it is, that is ſo cal<g ref="char:EOLhyphen"/>led.</p>
+            <p>Secondly, The ground why hee is ſo called.</p>
+            <p>Firſt, Who it is, that is ſo called; It is the Lord Jeſus Chriſt, who is the ſonne of God, the elect of God,<note place="margin">Eſa. 42.1.</note> the delight of
+<pb n="76" facs="tcp:119519:42"/>God, the expreſſe image of the Father, and hee that calls himſelfe <hi>Wiſedome,</hi> Proverbs 8. and is ſo called Pro<g ref="char:EOLhyphen"/>verbs 9.</p>
+            <p>The Reaſons why he is ſo called are theſe.</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> Becauſe he is the fountaine re<g ref="char:EOLhyphen"/>taining wiſedome for us, Matth. 11.27. Coll. 2.3. All the light and wiſedome that is enjoyed by us, was firſt in Chriſt for us, and is but ſtreams of that fountain, and beams of that body.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> He is not onely the foun<g ref="char:EOLhyphen"/>taine retaining wiſedome for us, but the way to communicate wiſedome to us,<note place="margin">Iohn 14.6.</note> 
+               <hi>No man knovves the Father; but him to vvhom the ſonne reveals him,</hi> Mat. 11.27. <hi>and vvhat ever the Father reveals to him, that he reveals to you,</hi> Ioh. 15.15.</p>
+            <p>Thirdly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> He may be called wiſedom, in that hee is the object of wiſedome, 2 Cor. 3. laſt, <hi>looking upon him as in a glaſſe,</hi> 2 Cor. 5.19. <hi>vve ſavv God in Chriſt,</hi> when once a ſoule is made wiſe by Chriſt, the object of his wiſedome, is to underſtand the miſtery of the Father, in Chriſt; for no other way is God as a father to bee
+<pb n="77" facs="tcp:119519:42"/>underſtood; and the truth is, when once the ſoule is enlightned by Chriſt, hee is ſo imployed in the underſtanding of that myſtery in Chriſt, that all things be<g ref="char:EOLhyphen"/>ſides Chriſt is clouded and out-gloryed by it: and ſo Chriſt is wiſedom as hee is the object of wiſedom.</p>
+            <p>Fourthly, He is wiſedome, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> not only as the Fountain retaining, and the way cauſing, and the object in which wiſe<g ref="char:EOLhyphen"/>dom is imployed; but hee is wiſedome Eſſentially, for he is not onely the cauſe of light in us, but he is the cauſe of life in that light; therefore the Apoſtle ſayes, Gal. 2.20, <hi>Not I, but Chriſt lives in me:</hi> for when once Chriſt hath enlightned a ſoule, he is then the life of that light,<note place="margin">Eph. 1.17, 18, 19.</note> im<g ref="char:EOLhyphen"/>ploying that ſoule in the underſtanding of Divine Love: And ſo much for the firſt thing: what is meant by wiſe<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The ſecond thing is, what is meant by Juſtification: And in that conſider two things,</p>
+            <p>Firſt, How we are not to underſtand Juſtification.</p>
+            <p>Secondly, How we are to underſtand it.</p>
+            <pb n="78" facs="tcp:119519:43"/>
+            <p> How wee are not to underſtand it; the word <hi>Iuſtifie</hi> is taken many wayes in ſcripture.</p>
+            <p>Firſt, Sometimes to make a thing juſt that was not ſo, and ſo God is ſaid to <hi>ju<g ref="char:EOLhyphen"/>stifie the ungodly,</hi> Rom. 4.5. ſo wiſe<g ref="char:EOLhyphen"/>domes Children cannot juſtifie wiſe<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Secondly, Sometimes to preſent men and actions juſt, when they are not ſo, and this is the property of a wicked man, Prov. 17.15. <hi>vvho goes about to condemne the righteous, and juſtifie the vvick<g ref="char:EOLhyphen"/>ed;</hi>
+               <note place="margin">Eſa. 5.23.</note> neither of theſe waies can wiſedomes Children juſtifie wiſedome.<note place="margin">Luk. 16.15.</note>
+            </p>
+            <p>Thirdly, But <hi>Iuſtifying</hi> in this place, is to acknowledge a thing Juſt, that is ſo; and ſo wiſedomes Children are ſaid to juſtifie wiſedome, by acknowledging that in him, which is proper to him: and ſo alſo wiſedoms Children by conform<g ref="char:EOLhyphen"/>ing to him, doe Juſtifie or acknowledge the authoritie of the command given out by him, and by their ſpeaking or decla<g ref="char:EOLhyphen"/>ring him, they doe acknowledge or ju<g ref="char:EOLhyphen"/>ſtifie the excellency of the nature of him, or divine ſweetneſſe in him; and
+<pb n="79" facs="tcp:119519:43"/>thus wiſedomes Children doe juſtifie wiſedome; not by adding anything to him, but by acknowledging what there is in him, or approving and owning what there is done by him: and ſo much of the ſecond thing.</p>
+            <p>The third thing is, what is meant by wiſedomes Children.</p>
+            <p>According to Scripture wee are to underſtand them theſe two waies.</p>
+            <list>
+               <item>Firſt, Improperly, and ſo Rela<g ref="char:EOLhyphen"/>tively.</item>
+               <item>Secondly, Properly, and ſo Re<g ref="char:EOLhyphen"/>ally.</item>
+            </list>
+            <p>Firſt, Improperly, and ſo Relatively, ſo all men and women that are brought over to beleeve in him, are called ſonnes and daughters, and ſo they are ſonnes and daughters adopted, and that which gives them the denomination of Chri<g ref="char:EOLhyphen"/>ſtians or Sonnes, is becauſe they are e<g ref="char:EOLhyphen"/>lected in the election of Gods electing Chriſt, or Chriſtianizing by Chriſt, that which makes Chriſt a Chriſt, makes Chriſtians to bee Chriſtians, <hi>Christ</hi> ſig<g ref="char:EOLhyphen"/>nifies <hi>annointed,</hi> ſo that unction or an<g ref="char:EOLhyphen"/>nointing of Chriſt, gives Chriſt that de<g ref="char:EOLhyphen"/>nomination
+<pb n="80" facs="tcp:119519:44"/>of being called Chriſt, ſo the name of Chriſt hath relation to, and flowes from the annointing, and ſo that which gives a man or woman to be cal<g ref="char:EOLhyphen"/>led a Chriſtian, is the <hi>unction or annoint<g ref="char:EOLhyphen"/>ing they receive from the holy one,</hi> 1 Joh. 2.20. Chriſt being one with the Deitie, is the naturall Sonne;<note place="margin">Pet. 1.1, 4.</note> we partaking of the Deitie by him,<note place="margin">Gal. 4.5.</note> are adopted ſons.</p>
+            <p>But that which is properly the ſon of wiſedome, or the ſonne of Chriſt, is the anointing unction, or ſpirit which is within, which is not onely cauſed by Chriſt, but is one with Chriſt; it is not another ſpirit, but the ſame ſpirit, Rom. 8.9.1 Joh. 4.13. and may properly be called wiſedomes childe, for theſe rea<g ref="char:EOLhyphen"/>ſons,</p>
+            <p>Firſt, It is conceived in the womb of him.</p>
+            <p>Secondly, It is brought forth by him.</p>
+            <p>Thirdly, It is one with him.</p>
+            <p>Fourthly, It lives by influences of him.</p>
+            <p>Fifthly, It looks like him.</p>
+            <p>For the firſt, It is conceived in the
+<pb n="81" facs="tcp:119519:44"/>womb of him, which expreſſion is me<g ref="char:EOLhyphen"/>taphorically and not to bee underſtood carnally, but ſpiritually, and I doe ex<g ref="char:EOLhyphen"/>preſſe my ſelfe thus, becauſe that all light, love, life and annointing, that is in time brought home to ſaints and revealed in ſaints was before time by God,<note place="margin">Eph. 1.3, 4.</note> conſer<g ref="char:EOLhyphen"/>ved and laid up in Chriſt for ſaints, 2 Tim. 1.9.10.</p>
+            <p>Secondly, It is brought forth by Chriſt; and ſo Chriſt is not onely the fountaine in which good is retained for us, but is alſo the way to communicate good to us; therefore hee calls himſelfe <hi>the way,</hi> Ioh. 14.6. he is the way to bring downe the Father, and what is in the Father to us, and alſo to bring us up through himſelfe to the Father, by his ſpirit, which knowes God, and is known of God.</p>
+            <p>Thirdly, It is one with Chriſt:<note place="margin">Pſal. 133.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> The annointment which was poured out upon <hi>Aarons</hi> head, and ran downe to the skirts of his garments, held forth the an<g ref="char:EOLhyphen"/>nointing of Chriſt and Chriſtians; the annointing that was upon the garments, was one with that which was upon the
+<pb n="82" facs="tcp:119519:45"/>head, ſo that unction or annointing which is in us,<note place="margin">Eph. 1.4, 5.</note> is one with that unction or annointing of Chriſt: Chriſt is the publicke perſon elected by God, and all that are elected, are elected in his Ele<g ref="char:EOLhyphen"/>ctions; ſo Chriſt is the publicke per<g ref="char:EOLhyphen"/>ſon annointed by God; and all that are anointed, are anointed by Chriſt, and from the anointing of Chriſt, and not onely as a thing cauſed by it, but as that which is one with it.</p>
+            <p>Fourthly, it lives by influences and incomes of him: Every effect is main<g ref="char:EOLhyphen"/>tained by the in-comes of the firſt cauſe; that which is cauſed by a heat or light natural, cannot be maintained and car<g ref="char:EOLhyphen"/>ried on by a heat or light artificial: So that life in Saints which is produced by a ſublime cauſe, or the ſpringing forth of the Father through the Son, cannot be maintained and carried on by a ſub<g ref="char:EOLhyphen"/>lunary and tranſitory thing; for that ſoul which Chriſt hath ſpread his skirt of love over, and revealed his Son in, is of a more noble life, then for the glory and ſmiles of creatures to maintain: Does creatures frown, if Chriſt ſmiles
+<pb n="83" facs="tcp:119519:45"/>the heart lives:<note place="margin">Pſal. 4.6.7. &amp; 17.14, 12</note> Does creature oppreſſe Saints with Thornes, and Chriſt deck them with crownes: a Saints ſpirit can<g ref="char:EOLhyphen"/>not die; the reaſon is, becauſe Saints though they live in the world, yet they live by influences of that love and light, which the world is not capable of,<note place="margin">1 Cor. 2, 11, 14.</note> nor by all their oppoſition can cauſe an ob<g ref="char:EOLhyphen"/>ſtruction in.<note place="margin">Ioh. 16.33.</note> Habacuk 3.16, 17.</p>
+            <p>Fifthly, It looks like him, <hi>Adam</hi> be<g ref="char:EOLhyphen"/>gat a ſon like unto himſelf; ſo that child or ſon of Wiſdom which is in the heart of Saints, looks like Jeſus Chriſt; and as Chriſt is the <hi>Image of the Father,</hi>
+               <note place="margin">Hebr. 1.2.</note> this is the <hi>Image of the Son:</hi>
+               <note place="margin">1 Cor. 15.49.</note> and thus Saints are ſaid not onely to <hi>bear the Image of the Earthly,</hi> but likewiſe of the <hi>Heavenly:</hi> this is the cauſe why Chriſt delights to behold the face of Saints, <hi>Cant.</hi> 2.14. and a Saint loves to behold the face of Chriſt;<note place="margin">Can. 6, 12.</note> Chriſt beautifies a Saint with his owne beauty, Ezek. 16.14. and then he loves to behold his owne beauty in a Saints ſpirit; every thing loves its like; this is the cauſe of ſo much ſoul-feaſting in a Saints ſpirit; even this, they are beheld by Chriſt, and are employed
+<pb n="84" facs="tcp:119519:46"/>in the beholding of Chriſt, and ſo much of this thing, what is meant by wiſ<g ref="char:EOLhyphen"/>doms children.</p>
+            <p>Now the reaſon why none but wiſ<g ref="char:EOLhyphen"/>doms children can juſtifie wiſdom, are theſe.</p>
+            <p>Firſt, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> None can ſo juſtifie wiſdom. but they which underſtand wiſdom;<note place="margin">Ioh. 15.21.</note> but none underſtand wiſdom but wiſdoms ſons,<note place="margin">1 Iohn 3.1.</note> therefore none but wiſdoms ſons can juſtifie wiſdom.</p>
+            <p>Its true, that many may from the out<g ref="char:EOLhyphen"/>ward teaching of Chriſt; declare ſom<g ref="char:EOLhyphen"/>thing of Chriſt; but they alone truly underſtand him, that live in him, and truly and really underſtand that excel<g ref="char:EOLhyphen"/>lency and divine ſweetneſſe that is pro<g ref="char:EOLhyphen"/>per to him; therefore they onely can truly juſtifie him.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> Every effect is cauſed by a power ſutable to its ſelf, but no power is ſutable to the acknowledging of the glorious excellency of Chriſt, but that which flowes from, and is really one with the ſpirit of Jeſus; the truth is, the glories of Chriſt are too high for ſpirits that live at a diſtance from Chriſt
+<pb n="85" facs="tcp:119519:46"/>to acknowledge; and that is the cauſe why the men of the world are ſo farre from <hi>juſtifying,</hi> that they <hi>condemn</hi> Chriſt, though not under the notion of his name, yet it is his name both in him<g ref="char:EOLhyphen"/>ſelf and ſaints that the world condemns.</p>
+            <p>Thirdly, All other ſpirits beſide the ſpirit of Saints, is ſo far from being ca<g ref="char:EOLhyphen"/>pable of juſtifying, that they are alto<g ref="char:EOLhyphen"/>gether <hi>condemners</hi> of that <hi>Light which is come into the World:</hi>
+               <note place="margin">Iohn 3.19.</note> 
+               <hi>Darkneſse</hi> cannot juſtifie <hi>Light;</hi> nor <hi>evil</hi> will not juſtifie <hi>good;</hi> no more can the ſpirit of wicked men juſtifie Chriſt; its true that light takes advantage by darkneſſe for the further diſplaying of its owne glory, but this is to honour it ſelf by it, and not to receive honour from it; ſo Jeſus Chriſt in the glorious diſplayings of life and love, takes an advantage even of wicked men, leaving of them with<g ref="char:EOLhyphen"/>out excuſe, but its onely proper to them that know, and have power from, and are one with wiſdom, to juſtifie wiſ<g ref="char:EOLhyphen"/>dom; and ſo much for the reaſons.</p>
+            <p>The Vſe is of Information, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> to in<g ref="char:EOLhyphen"/>form you of many things which will
+<pb n="86" facs="tcp:119519:47"/>be drawn from the particular termes in the concluſion, and I ſhall draw them forth by way of brief concluſions or conſectaries; every particular admitting of a particular conſectarie; as thus:</p>
+            <p>Firſt, I told you what wiſdom was, It's <hi>Christ:</hi> And why he is called <hi>Wiſ<g ref="char:EOLhyphen"/>dom;</hi> He may be ſo called under theſe conſiderations.</p>
+            <p>Firſt, He is the Fountain retaining:</p>
+            <p>Secondly, He is the way cauſing.</p>
+            <p>Thirdly, He is the Object employ<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Fourthly, He is wiſdom eſſentially, as the life of a Saints light: From which four reaſons we may obſerve theſe four conſectaries, or concluſions.</p>
+            <p>Firſt,<note place="margin">Conſect. 1.</note> There is no wiſdom in Saints, but what was firſt in Chriſt for them<note place="margin">Ioh. 1.9.16</note>.</p>
+            <p>Secondly,<note place="margin">Conſect. 2.</note> None can truly under<g ref="char:EOLhyphen"/>ſtand the miſtery of the Father,<note place="margin">Mat. 11.27.</note> but by the Son.<note place="margin">Iohn. 15.15.</note> Or thus,</p>
+            <p>The underſtanding of the Father,<note place="margin">Iohn 14.5.</note> is the work of the Son.</p>
+            <p>Thirdly,<note place="margin">Conſect 3.</note> That ſoule that is made wiſe by Chriſt,<note place="margin">Eph. 1.17, 18, 19.</note> is employed in the un<g ref="char:EOLhyphen"/>derſtanding of the myſterie of the Fa<g ref="char:EOLhyphen"/>ther
+<pb n="87" facs="tcp:119519:47"/>in Chriſt:<note place="margin">Gal. 2.20.</note> Or thus, Chriſt is the object of a Saints wiſdom.</p>
+            <p>Fourthly,<note place="margin">Conſect. 4. ohn 1.4. oh. 14.19.</note> That light in ſaints which truly flowes from Chriſt as Chriſt, the life of that light is Chriſt.</p>
+            <p>I ſhall make uſe of theſe four conclu<g ref="char:EOLhyphen"/>ſions-together: as thus, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Is Chriſt the Fountain retaining wiſdom for you? Is Chriſt the way communicating wiſ<g ref="char:EOLhyphen"/>dom to you? Is Chriſt the object of wiſdom? Is Chriſt the life of that light which is thus called wiſdom? Then note firſt,<note place="margin">Coloſſ. 2.9.</note> That <hi>Christ is all in all</hi> to a ſaints ſpirit;<note place="margin">Coloſ. 3.11.</note> What haſt thou which thou haſt not received? and what way re<g ref="char:EOLhyphen"/>ceiveſt thou but by Chriſt? and if ſo,<note place="margin">1 Cor. 4.7.</note> then give the ſole and whole glory of that thy wiſdom to Chriſt:<note place="margin">Iohn 14.6.</note> There is no ſuch ingratitude as this, for men not to return an acknowledge<g ref="char:EOLhyphen"/>ment to him from whence all flowes: to glory in our own, as Chriſt, is a great ſin againſt Chriſt; but to make that to be ours which is proper to Chriſt, ſo as to give the glory of that good to our ſelves,<note place="margin">Ezek. 16.15, 16, 17.</note> or to any thing elſe beſides Chriſt, is, and will be taken unkindly by him.</p>
+            <pb n="88" facs="tcp:119519:48"/>
+            <p> The ſecond Vſe is of ſingular com<g ref="char:EOLhyphen"/>fort to all ſaints; <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Is Chriſt the Fountain retaining, and the way cauſing, and the life of thy light preſerving, and the Object of thy light implying? What canſt thou deſire more? There are theſe three things that maketh any thing e<g ref="char:EOLhyphen"/>minent, The riſe from which; The nature of which; and the place whi<g ref="char:EOLhyphen"/>ther: Thy wiſdom (ôh ſaint) is one with Chriſt; it riſes, and raiſes thee in its riſing, to be employed in the glori<g ref="char:EOLhyphen"/>ous beholdings of Chriſt: What can thy ſoul deſire more? The myſterie of the Father and the Son,<note place="margin">Iohn 14.7.</note> is the object of thy eye; This is that which out-glory<g ref="char:EOLhyphen"/>eth all glory below it ſelf; This ſupplies thee with all good, when all things de<g ref="char:EOLhyphen"/>part from thee but it ſelf: Thoſe ſtreams can never grow dry, whoſe fountain al<g ref="char:EOLhyphen"/>waies flowes forth to fill them; That heart can never be at aloſſe, who is al<g ref="char:EOLhyphen"/>waies employed amongſt, and in the enjoyment of eternal gaines: This ſhould therefore in an eminent ſenſe comfort all Saints: It ſhould alſo com<g ref="char:EOLhyphen"/>fort you againſt all the oppoſitions you
+<pb n="89" facs="tcp:119519:48"/>meet with in the world; Do men la<g ref="char:EOLhyphen"/>bour to interrupt the conveyance of light? Who can do it, if Chriſt cauſes, as the beginnings, ſo the increaſe of light in them? What if men darken expreſſi<g ref="char:EOLhyphen"/>ons, and do what they can to cloud the Truth?<note place="margin">Ezek. 34.15, 16.</note> If Chriſt be the convayer of Truth, who can let? Therein rejoyce.</p>
+            <p>The next Vſe is an Vſe of Reproof to thoſe who glory much in enjoying light from Chriſt, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> and yet that light they do enjoy, doth not employ them in the <hi>Beholdings</hi> of, and in affection to the Lord Jeſus; but rather uſe their parts as a way to cloud Chriſt,<note place="margin">Ezek. 34.3, 4, 5.</note> and ſcorne Chri<g ref="char:EOLhyphen"/>ſtians; then honour Chriſt, and inform Chriſtians, Theſe men are not yet come to that mountain that makes the earth ſi<g ref="char:EOLhyphen"/>lent; they are not come to that glory, wiſdom, and light, that is <hi>peaceable, meek,</hi> and <hi>teachable;</hi>
+               <note place="margin">Iam. 3.1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> but rather are poſſeſſed with the rough ſtreams of their own fan<g ref="char:EOLhyphen"/>cy, which endeavours to condemn all that ſuits not with, and are not conform<g ref="char:EOLhyphen"/>able to the will of themſelves; far from the mind of <hi>Paul,</hi> who ſaith, <hi>If any man be otherwiſe minded, God will reveal it to him in
+<pb n="90" facs="tcp:119519:49"/>due time:</hi> Phil, 3.15. But they endea<g ref="char:EOLhyphen"/>vour rather with clubs and ſtaves to make men conformable without light; then with meekneſſe of Spirit to give forth light, and by that light to produce conformity. But no more of that thing.</p>
+            <p>The next conſectary ariſes from the ſecond particular,<note place="margin">Conſect.</note> what is meant by Ju<g ref="char:EOLhyphen"/>ſtifying? I told you it was not to add any thing to Chriſt, or to preſent Chriſt in any way of glory or beauty that was not proper to him, and real in him: but it is to acknowledge that in him, which is proper to him; Thence obſerve, that Chriſt receives no additional glory by ſaints acknowledgements,<note place="margin">Iob 22.2, 3. and 35.7.</note> though Chriſt calls it a glory to him, when the glory in himſelf by ſaints is acknowledged, yet it adds nothing to him, but onely doth acknowledge what before was in him.</p>
+            <p>If ſo, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> let this teach us, that the higheſt of our exaltings of Chriſt, is no ground for us to exalt our ſelves, ei<g ref="char:EOLhyphen"/>ther in the room of, or with the Lord Jeſus Chriſt; though its true, Chriſt
+<pb n="91" facs="tcp:119519:49"/>cannot be exalted,<note place="margin">Coloſſ. 3.4.</note> but a ſaint is exalted too;<note place="margin">1 Iohn 3.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> but it is the very exaltation of Chriſt, that is a Saints exaltation, and nothing elſe; Therefore let this teach us, while we exalt him, to lie low before him, knowing that we give nothing to him,<note place="margin">Eph. 3.7, 8.</note> but what is his due; and do nothing before him, but what is our duty; which becomes a ſaint.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> This ſerves to reprove thoſe that profeſſe themſelves ſons of wiſdom, and yet are ſo far from <hi>juſtifying wiſdom,</hi> that they <hi>condemn wiſdom,</hi> by ſetting up ſome power either above him, or elſe with him, that is not proper to him: this is the practiſe of moſt men in our daies, who center the authority of Chriſt in the power of creatures; and are ſo far from <hi>Juſtifying</hi> ſaints when they conform to Chriſt, that they cenſure ſaints in their conformity, by the name of Hereticks, and Schiſmaticks: But its no new thing, the Popiſh Biſhops in Queen <hi>Maryes</hi> time, cenſured other miniſters and Biſhops that were more purely minded, and when thoſe Biſhops
+<pb n="92" facs="tcp:119519:50"/>that ſuffered got power, they did the ſame to them that were more pure reformers: and what if thoſe that were more pure Reformers then their perſecutors, ſhould get power, and perſecute them that en<g ref="char:EOLhyphen"/>devour to walk more exactly then them<g ref="char:EOLhyphen"/>ſelves? think it not ſtrange, but remember that <hi>Wiſdom is juſtified onely of her children.</hi>
+            </p>
+            <p>The third Vſe is of Exhortation, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> Is it ſo, that to <hi>juſtifie wiſdom</hi> is onely to acknowledge that in him, which is proper to him? Let this exhort all thoſe that profeſſe themſelves <hi>ſons of Wiſdom,</hi> to acknowledge that in Chriſt, which is proper to Chriſt;<note place="margin">1 Pet. 4.10, 11.</note> and let this acknow<g ref="char:EOLhyphen"/>ledgement be both in your ſpeaking and doing;<note place="margin">Iohn 15.14.</note> ſpeaking of him, and acknow<g ref="char:EOLhyphen"/>ledging what is in him; by conforming to him, to ſhew the authority of him. What if men ſhall oppoſe, and powers reſiſt? The <hi>ſun</hi> gains moſt glory, when it meeteth with the <hi>darkeſt cloud: Chriſt</hi> ne<g ref="char:EOLhyphen"/>ver is advanced more by ſaints, then when men perſecute and oppoſe ſaints for profeſſing of him, <hi>light</hi> is moſt glori<g ref="char:EOLhyphen"/>ous in the <hi>darkeſt night,</hi> the pureſt gold ſhines moſt glorious amongſt the filthi<g ref="char:EOLhyphen"/>eſt
+<pb n="93" facs="tcp:119519:50"/>droſſe,<note place="margin">Cant. 2.<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the Lillie is moſt lovely when among Thorns; therefore ſaints ſhould be ſo far from covering themſelves, and clouding Chriſt in times of adverſity, that they ſhould rather profeſs him much the more, knowing its their duty to <hi>juſti<g ref="char:EOLhyphen"/>fie,</hi> and this is to juſtifie, to acknowledge him, which they do by their declaring of him,<note place="margin">Mat. 10.27.</note> and conforming to him, and ſo much of that thing.</p>
+            <p>The third thing I named to you was, what is meant by <hi>wiſdoms children?</hi> I told you it is either taken Relatively, and ſo improperly; or Really, and ſo properly: Relatively,<note place="margin">1 Iohn 3.2.</note> and ſo all men and women poſſeſſed with <hi>Chriſt,</hi> and elected in <hi>Chriſt,</hi>
+               <note place="margin">Rom. 3.14.</note> and called by <hi>Chriſt;</hi> in relation to that e<g ref="char:EOLhyphen"/>lection, calling, and enjoyment, are cal<g ref="char:EOLhyphen"/>led ſons and daughters: But that which is properly the ſon of wiſdom, and gives them the denomination of <hi>ſons</hi> and <hi>daugh<g ref="char:EOLhyphen"/>ters,</hi> is that <hi>unction,</hi> or <hi>ſpirit,</hi> or <hi>anointing</hi> within, which they <hi>receive from the holy one</hi> 1 Joh. 2.27. For as the <hi>anointing</hi> of <hi>Christ</hi> gives him the title of being called <hi>Chriſt,</hi> ſo ſaints being poſſeſſed with the <hi>unction,</hi> and <hi>ſpirit,</hi> and <hi>anointing</hi> of <hi>Chriſt,</hi> that gives
+<pb n="94" facs="tcp:119519:51"/>them the title of being called Chriſtians; Chriſt being one with the Deity, is the natural Son, we through him partaking of the Deity, are the adopted ſons; our ſonſhip is in relation to, and flows from this ſpirit and unction that is in us: and I told you this may be called wiſdomes child, or ſon, for theſe reaſons.</p>
+            <p>Firſt, Its conceived in the womb of him.</p>
+            <p>Secondly, Its brought forth by him.</p>
+            <p>Thirdly, Its one with him.</p>
+            <p>Fourthly, It lives by influences of him.</p>
+            <p>Laſtly, It looks like him.</p>
+            <p>From theſe five, obſerve theſe five con<g ref="char:EOLhyphen"/>ſectaries.</p>
+            <p>Firſt, That the womb of Chriſt is a magazine of grace and glory;<note place="margin">Conſect. 1.</note> I told you the word is a metaphorical expreſſion, and muſt not be underſtood carnally, but ſpiritually; by the womb of Chriſt, I mean the boſome of the ſon,<note place="margin">2 Tim. 1, 9.</note> in which the father conceives all good for ſaints:<note place="margin">Mat. 3.17.</note> and I call it a magazine,<note place="margin">Iohn 1.16.</note> becauſe all flowes from him; and all muſt, and is to be returned to him; a magazine, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="95" facs="tcp:119519:51"/>there is not onely a few,<note place="margin">Col. 1.19.</note> but vari<g ref="char:EOLhyphen"/>eties of all glories, and treaſures for the ſons of men, as power, wiſdom, ſtrength, love, and light, and all other deſireable good.</p>
+            <p>If this be ſo, the uſe is firſt, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> To ſhew that a ſaints portion by Chriſt, is a <hi>hid<g ref="char:EOLhyphen"/>den Treaſure:</hi> ſtreams may be meaſured,<note place="margin">1 Ioh. 2, <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> but fountains cannot be comprehended:<note place="margin">Col. 3.3.</note> beams may be limited,<note place="margin">1 Cor. 3.21, 22:</note> but the body is incomprehenſible: This is the portion of all ſaints, not onely to have a hand<g ref="char:EOLhyphen"/>full, but even a magazine of all good: and this ſhould comfort us in theſe things.</p>
+            <p>Firſt, in this, That we can never draw our portion dry; its a Magazine: and a magazine of grace and glory: what is there wanting to ſaints, but there is in Chriſt enough to ſupply it? what ſtormes or clouds ſoever ariſe over us, there is enough ſtrength in the beau<g ref="char:EOLhyphen"/>tiful beams of the glorious ſon to expel it: not onely a ſupply for ſome, but for all; for Chriſt is a magazine. And ſecondly, this ſhould comfort us, not onely at ſometimes, but at all times: a
+<pb n="96" facs="tcp:119519:52"/>Magazine that ſtands open; That is ſo far from being gamed by intreaties, that he intreats and allures us,<note place="margin">Zech. 13.1.</note> and in thoſe allurings he gains us to himſelf:<note place="margin">2 Cor. 5.20.</note> me<g ref="char:EOLhyphen"/>thinks ſaints that are thus inriched, ſhould never be ſad: what canſt thou deſire more then varieties of all things? what portion is better then that, where there is a want of nothing?</p>
+            <p>If this be ſo, let the next Vſe be an Vſe of Exhortation, firſt to ſaints, and then to the world.</p>
+            <p>Firſt to ſaints, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> that they would make uſe of Chriſt as a magazine; and that in theſe things, firſt, in their often re<g ref="char:EOLhyphen"/>courſe to him; ſecondly, in their expe<g ref="char:EOLhyphen"/>ctation of a ſupply in all things from him: thirdly, in the making their re<g ref="char:EOLhyphen"/>turnes in all their enjoyments to him: If this were ſo, I am certain clouds of creatures would not make ſaints walk with ſad ſpirits, but rather ſay as <hi>David,</hi> Pſal. 118.11. <hi>They compaſſe me about like Bees, but in the Name of the Lord will I de<g ref="char:EOLhyphen"/>ſtroy them.</hi>
+            </p>
+            <p>It alſo ſerves to exhort the world, to deſert their fooliſh practiſe in endea<g ref="char:EOLhyphen"/>vouring
+<pb n="97" facs="tcp:119519:52"/>to draw the ſpirits of ſaints dry, or cauſe the hearts of ſaints to be daunted: ſhould you ſee men go about to dry up a fountain, or overturn mountains, you would think they were mad: the ſame we may ſay of your proceedings againſt ſaints, wherein you think by your endea<g ref="char:EOLhyphen"/>vours to cruſh,<note place="margin">Acts 4.18.</note> and ſo overcome the pra<g ref="char:EOLhyphen"/>ctiſe and cheerful proceedings of ſaints,<note place="margin">Acts 5.18, 28.</note> in the acknowledgment of Chriſt, you are much miſtaken: when did the Iſrae<g ref="char:EOLhyphen"/>lites increaſe more, then when they were moſt oppreſſed? when doth the ſun ap<g ref="char:EOLhyphen"/>pear more glorious, then when it is ſur<g ref="char:EOLhyphen"/>rounded with many clouds? <hi>The Kingdom of God</hi> (ſaith Chriſt) <hi>ſuffers violence, and the violent take it by force.</hi> Mat. 11.12.</p>
+            <p>Let me ſpeak to ſome of theſe men thus, did the Biſhops that perſecuted them that were ſtricter then themſelves in re<g ref="char:EOLhyphen"/>forming, gain by it, or were they loſt in it? when the Church of Jeruſalem was moſt perſecuted, the Goſpel moſt flori<g ref="char:EOLhyphen"/>ſhed: and what think you, will truth ap<g ref="char:EOLhyphen"/>pear leſſe or more glorious by your op<g ref="char:EOLhyphen"/>poſings? ſin riſes moſt violent, when moſt bound up by a law; what then will ver<g ref="char:EOLhyphen"/>tue
+<pb n="98" facs="tcp:119519:53"/>do, which cannot be deſtroyed by any power or law, but are maintained and fed by a power and law ſutable to it ſelf? ceaſe therefore your oppoſings, remem<g ref="char:EOLhyphen"/>bring that <hi>it is in vain to kick against the pricks.</hi>
+               <note place="margin">Acts 9.4, 5.</note> And ſo much of this conſectary.</p>
+            <p>The ſecond conſectary is drawn from the ſecond thing,<note place="margin">Conſect. 2.</note> Its brought forth by him; Thence obſerve, That all good that is in ſaints, was not onely concei<g ref="char:EOLhyphen"/>ved in Chriſt before time, but is brought forth by him in time; <hi>Chriſt is the way,</hi> John 14.6. The way to bring down God to us, and to make returnes of us to God; God hath no way nor Con<g ref="char:EOLhyphen"/>duit to convay life, light, and love to the ſons of men, but by his Son.</p>
+            <p>If ſo, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> This may teach us, firſt to admire God in all his proceedings: He hath not onely a choiſe place to lay up light and life for us, but a choiſe way to communi<g ref="char:EOLhyphen"/>cate light and life to us, even his Son: this ſhould aſſure us that the way is ſure; and it ſo, this ſhould take away all doubts and fears from the hearts of Saints, who are apt to think they ſhall be intercepted in Gods approching to them, and their ap<g ref="char:EOLhyphen"/>proching
+<pb n="99" facs="tcp:119519:53"/>to God, by the worlds oppoſi<g ref="char:EOLhyphen"/>tions; Its a vain conception,<note place="margin">Rom. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.38, 39.</note> who can in<g ref="char:EOLhyphen"/>tercept the Father, who works in the Son.</p>
+            <p>Secondly, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> Let this alſo teach us to give Chriſt the glory of all good, as the Foun<g ref="char:EOLhyphen"/>tain retaining, ſo the way cauſing; and ſo give him the glory, as to abhor all other waies; for thoſe <hi>other waies</hi> I name them not, onely ſpeak a word to your ignorant <hi>legaliſts,</hi> who ſeek conſolation and refreſh<g ref="char:EOLhyphen"/>ment of ſpirit by ſome other way then Chriſt, which they do, when they expect joy from <hi>doing,</hi> and do not expect their <hi>doing</hi> to flow from <hi>joy:</hi> They expect <hi>qua<g ref="char:EOLhyphen"/>lifications</hi> of good, and ſo to <hi>believe,</hi> and then go to Chriſt, but do not expect <hi>be<g ref="char:EOLhyphen"/>lieving</hi> and all <hi>qualifications</hi> to flow from Chriſt: Take heed of ſuch conceits, this is to <hi>kindle a fire,</hi>
+               <note place="margin">Iſa. <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.10, 11.</note> 
+               <hi>and compaſſe your ſelves about with ſparks:</hi> God ownes no way but his Son, Therefore joy in him, and power to conform to him, you muſt expect onely to flow from him. And ſo much of this thing.</p>
+            <p>The next conſectary ariſes from the third thing,<note place="margin">Conſect. 5.</note> Its one with him; From hence obſerve, That the <hi>Spirit,</hi> and
+<pb n="100" facs="tcp:119519:54"/>
+               <hi>Vnction</hi> in Saints, and the <hi>Spirit</hi> and <hi>Vncti<g ref="char:EOLhyphen"/>on</hi> in Chriſt, is not two, but <hi>One Spirit;</hi> Rom 8.9.1 John 4.13. That <hi>anoint<g ref="char:EOLhyphen"/>ing</hi> that was poured upon <hi>Aarons</hi> head,<note place="margin">Pſal. 133.2.</note> was one with that <hi>anointing</hi> that was up<g ref="char:EOLhyphen"/>on the skirts of his garment, it was produced by one cauſe, it flowed from one ſountain, it was of one nature.</p>
+            <p>If ſo, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> This may inform us firſt, of what a noble heroick ſpirit all ſaints are, Its the ſpirit of the Lord Jeſus: And if it be ſo, Let this teach ſaints to walk as men of a noble Spirit, with <hi>undaunted be arts,</hi> and <hi>un<g ref="char:EOLhyphen"/>ſpotted lives:</hi> with undaunted hearts, re<g ref="char:EOLhyphen"/>membring the words of the Apoſtle, <hi>Who can harm you? If God juſtified, who ſhall con<g ref="char:EOLhyphen"/>denin you?</hi> Rom. 8.34. Its the property of a low ſpirit to be daunted at the threats of fools, and the property of a beggarly ſpi<g ref="char:EOLhyphen"/>rit to ſtand in dread of every inferiour power, ſo as to hinder them in their act<g ref="char:EOLhyphen"/>ings to the Lord Jeſus Chriſt; Though ſaints are to own (and its their duty ſo to do) all power and authority that is of God,<note place="margin">Rom. 13.1.</note> and becauſe it is of God, as all civil power in civil things is; and therefore I ſpeak not for the Saints diſ-owning of it,
+<pb n="101" facs="tcp:119519:54"/>but all honouring of it in civil things: but my meaning is, when any power of men, or things, ſhould come in a daring way to daunt the ſpirits of ſaints, for ſaints to be daunted thereby in their proceedings towards Chriſt,<note place="margin">Mat. 10.28.</note> is beggarly:<note place="margin">Acts 4.19.</note> doth Chriſt our beloved, <hi>come leaping over the hills, and skipping over the mountains?</hi> and ſhall ſaints ſtumble at a ſtraw? Its not commendable.</p>
+            <p>And as in your <hi>undaunted ſpirits,</hi> ſo in your <hi>unſpotted lives,</hi> as ſaints ought not to bow down to <hi>powers ſinful,</hi>
+               <note place="margin">1 Iohn 2.1.</note> ſo in no way to cloſe with <hi>the power of ſin,</hi>
+               <note place="margin">2 Cor. 7.1.</note> being it clouds their ſpirits; Methinks thoſe that are Saints,<note place="margin">Rom. 6.1.2.</note> ſhould bee imployed in a higher enjoy<g ref="char:EOLhyphen"/>ment, and things of a more noble nature, then in tranſgreſſing the law of their God. The Apoſtle ſaith, <hi>How ſhal we that are dead to ſin, live any longer therein?</hi> And their being dead to ſin, was through <hi>Grace abounding:</hi>
+               <note place="margin">Rom. 6.2.</note> and ſhal the grace abounding towards us, and in us, not kil ſin, but rather give us li<g ref="char:EOLhyphen"/>berty to ſin? God forbid:let it never be ſaid, there is a man of liberty by Chriſt, and yet walks looſly before Chriſt;<note place="margin">Gal. 5.13.</note> I know it cannot be; for liberty by him rightly enjoyed, is the ſtrongeſt law and tie con<g ref="char:EOLhyphen"/>forming us to him.</p>
+            <pb n="102" facs="tcp:119519:55"/>
+            <p> This alſo ſhould teach the world to ceaſe their under-valuing of the ſaints ſpirits, knowing that its one with the ſpi<g ref="char:EOLhyphen"/>rit of the Lord Jeſus Chriſt; and Chriſt ſaith, <hi>He that deſpiſeth you, deſpiſeth me:</hi> Luk. 10.16. Were the world well skill'd in the weight and worth of a ſaints ſpirit, they would never ſlight it; and were they well skill'd in the underſtanding of the nobleneſs and heroickneſs in the ſpirits of ſaints, they would never ſeek to daunt it: As oyl feeds the flames, ſo doth oppoſi<g ref="char:EOLhyphen"/>tion cauſe grace to advance it ſelf: Oppo<g ref="char:EOLhyphen"/>ſitions are ſo far from taking away the glory of ſaints, that ſaints gain advantage by thoſe oppoſitions to appear more beautiful: Therefore (ôh poor men) re<g ref="char:EOLhyphen"/>member that ſaints are men of a noble ſpirit,<note place="margin">Dan. 3.16.17.</note> more noble then to be daunted by you;<note place="margin">Dan. 6.10.</note> more heroick then to be hindred in their proceedings towards Chriſt by any ſcorns and deriſions given out by you,<note place="margin">Acts 4.20.</note> and ſo much of that concluſion.</p>
+            <p>The next conſectarie ariſes from the fourth thing,<note place="margin">Conſect. 4.</note> It lives by influences of him.<note place="margin">Iohn 15.5.</note> Thence obſerve, That all ſouls made one with Chriſt,<note place="margin">
+                  <hi>Iohn</hi> 14.1<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> lives alone by
+<pb n="103" facs="tcp:119519:55"/>in-comes of Chriſt. Every thing is main<g ref="char:EOLhyphen"/>tained by the in-comes of the firſt cauſe producing; That life that is cau<g ref="char:EOLhyphen"/>ſed by natural heat, if natural heat deſerts, an artificial heat will not main<g ref="char:EOLhyphen"/>tain: Chriſt was the firſt cauſe commu<g ref="char:EOLhyphen"/>nicating life to ſaints, Influences of his glory, light, and love, is that alone that can preſerve the life of ſaints. By in<g ref="char:EOLhyphen"/>coms, I mean thoſe ſecret diſtillings of divine loves, which are diſtilled by Gods ſecret expoſtulations with ſaints ſpirits.</p>
+            <p>But in this I pray give me leave to tell you, that there are ſome ſecret waies of deceit, even in this thing, as thus, men may have ſome great refreſhing in duties, or<g ref="char:EOLhyphen"/>dinances, and opportunities, their ſpirits being lifted up, and employed in rejoy<g ref="char:EOLhyphen"/>cing in ſome thing which they conceive is Jeſus Chriſt, and that it flows from ſe<g ref="char:EOLhyphen"/>cret incoms of Chriſt, which is nothing leſſe: And this is that which makes peo<g ref="char:EOLhyphen"/>ple to be ſo full of joy, as thoſe that heard the Doctrine of John, <hi>Iohn</hi> 5.35. and af<g ref="char:EOLhyphen"/>terwards loſe all, and are nothing at all.</p>
+            <p>But for the better unfolding of my ſelf, let me a little diſcover what I mean
+<pb n="104" facs="tcp:119519:56"/>by thoſe ſecret incoms that refreſh mens ſpirits, that ſeem to be true, and yet are falſe; I ſhall preſent to you theſe three.</p>
+            <p>Firſt, The apprehenſion in a mans ſpirit, apprehending a ſutableneſs be<g ref="char:EOLhyphen"/>twixt an <hi>Act,</hi>
+               <note place="margin">Mat. 19.20.</note> and a <hi>Rule;</hi> This is pro<g ref="char:EOLhyphen"/>per onely to <hi>Legaliſts,</hi>
+               <note place="margin">Luke 18.31, 12.</note> who have <hi>rejoyce<g ref="char:EOLhyphen"/>ing,</hi> but it doth ariſe from, and conſiſts in their apprehending of a ſutableneſs betwixt an act and a rule.</p>
+            <p>If you ask me whether or no we may not rejoyce when we conform to the will of Chriſt?</p>
+            <p>I anſwer, Its one thing to <hi>rejoyce in an act,</hi> and another thing to <hi>draw our joy from an act:</hi> Its one thing to rejoyce in our ſutable walking up to a Rule, and another thing to draw our joy and re<g ref="char:EOLhyphen"/>freſhing from the apprehenſion of a ſutableneſs betwixt the act and the rule: men may pray and mourn for ſin, or perform any other particular duty, and have much joy in that opportunity, and yet not draw their joy from it, but onely their joy is diſtilled by a ſecret in<g ref="char:EOLhyphen"/>com of Chriſt, which carries them above it, while they are acted in it: but theſe
+<pb n="105" facs="tcp:119519:56"/>poor ſouls they onely are joyful when they ſee they act ſutable to a Rule, and they draw their joy from that ſutableneſs, which appears in this, that if their ſuta<g ref="char:EOLhyphen"/>bleneſs flagg, their joy is deſtroyed: I do not ſay but that every ſin ought to pro<g ref="char:EOLhyphen"/>duce ſorrow in us, but its one thing to mourn for ſin, <hi>enjoying Faith,</hi> with <hi>Peace:</hi> and another thing to mourn for ſin to <hi>confirm Faith,</hi> and to <hi>beget Peace;</hi> But I ſay no more of that.</p>
+            <p>Secondly, another corrupt of falſe in<g ref="char:EOLhyphen"/>come that ſeems to betrue, is in men that may profeſſe themſelves to be poſſeſſed with a higher light, even the light of the myſterie of the Father in the Son, and the riches and treaſure of the Goſpel: They in their apprehenſions may have much refreſhing and joy; and yet falſe; and the corruptneſs lyeth here, they one<g ref="char:EOLhyphen"/>ly have refreſhings from underſtanding the largeneſs of their apprehenſions,<note place="margin">Glorying in their own wiſ<g ref="char:EOLhyphen"/>dom. Ior. 9.23.</note> and not from the thing apprehended; They only have gain'd light in knowing truth, as they conceive, and therein rejoyce: but their joy is in their bare apprehend<g ref="char:EOLhyphen"/>ing, and not in their living in the glory
+<pb n="106" facs="tcp:119519:57"/>of what is apprehended; Theſe mens condition is more deſperate then the for<g ref="char:EOLhyphen"/>mer, for the higher men grow up in their own thoughts knowing Truth, and yet do not purely live in the real enjoyment of Truth, which is the matter known, but barely in the largeneſs of their knowing; This comes neer to the refreſhings of ſaints, which they enjoy from the incoms of Chriſt purely: for they injoy refreſhing and influences by <hi>Beholding,</hi> and in the <hi>act</hi> of <hi>beholding;</hi> but it is not from their <hi>appre<g ref="char:EOLhyphen"/>henſion,</hi> but it flows from the thing <hi>appre<g ref="char:EOLhyphen"/>hended;</hi> and that is the reaſon why they are fools when they are moſt employed in the <hi>beholdings of the wiſdom of the Father in the Son.</hi> But ſo much of that thing.</p>
+            <p>Thirdly, Men may have falſe incoms not onely from the apprehenſions of a ſu<g ref="char:EOLhyphen"/>tableneſs betwixt an act and a rule, and from their apprehenſions, and not the thing apprehended; But they may alſo have falſe incoms from the thing appre<g ref="char:EOLhyphen"/>hended; when they do not only rejoyce in, and draw their joy from their appre<g ref="char:EOLhyphen"/>henſion, but alſo the object apprehended; as thus, when they rejoyce onely in the
+<pb n="107" facs="tcp:119519:57"/>
+               <hi>Newneſs</hi> of the Object, and not the excel<g ref="char:EOLhyphen"/>lencie of the nature of it: Many men re<g ref="char:EOLhyphen"/>joyced not onely in their apprehending Chriſt when he came into the world, but in the matter apprehended; But it was the <hi>Newneſs</hi> of the Object, and not the <hi>excel<g ref="char:EOLhyphen"/>lency</hi> of the Nature thereof that they re<g ref="char:EOLhyphen"/>joyced in; And theſe are they which the Lord ſpeaks of Ezek. 33.32. where he tels Ezekiel, <hi>Thou art unto them as one that can ſing well, and they delight to hear thee.</hi> While he was <hi>new,</hi> he was matter of joy: and ſo was <hi>Iohn</hi> to the Jews: Now then herein is a great deceit in the heart of men,<note place="margin">Iohn 5.35.</note> they may be wrapt up and raviſhed with, not onely the largeneſt of their apprehenſi<g ref="char:EOLhyphen"/>ons, but the newneſs of the thing appre<g ref="char:EOLhyphen"/>hended, and yet both falſe: But a ſaints refreſhment flows from the excellency and glory of what he apprehendeth; and that is the cauſe why a ſaint never grows weary of viewing, and never flaggs in his delight and joy in his Beholding, but runs more ſure at laſt, then at firſt: like a bowl that is caſt out of a mans hand, though it runs violently at firſt, yet after<g ref="char:EOLhyphen"/>wards more ſoberly, and a great deal
+<pb n="108" facs="tcp:119519:58"/>more ſure: So ſaints may be carryed on with a great deal of violence at firſt, be<g ref="char:EOLhyphen"/>cauſe they are carryed on, as from the <hi>ex<g ref="char:EOLhyphen"/>cellency of the Nature of,</hi> ſo from the <hi>New<g ref="char:EOLhyphen"/>neſs</hi> of the Object apprehended; but the apprehenſion of the <hi>Nevvneſs</hi> in a ſenſe doth ceaſe: but the <hi>excellencie of the Na<g ref="char:EOLhyphen"/>ture</hi> of the thing apprehended and en<g ref="char:EOLhyphen"/>joyed, doth not ceaſe, but encreaſe daily. Now therefore conſider (dear friends) Have ye refreſhings and ſoul revivings, are they falſe or true? are they ſuch as are proper onely to ſaints? or to men that are yet unacquainted with Jeſus Chriſt? Conſider, doth not your Joy flow from one of theſe three things, either the ſutableneſs apprehended betwixt an Act and a Rule; or the largeneſs of your ap<g ref="char:EOLhyphen"/>prehenſions, and not the thing appre<g ref="char:EOLhyphen"/>hended; Or from the newneſs of the Object, and not the glorious nature of it? If it do, it will one day fail. But if it be purely from Chriſt; leading out your ſoul in all conformity, to live above all upon Chriſt, it will never ceaſe.</p>
+            <pb n="109" facs="tcp:119519:58"/>
+            <p> If you ask me what ſignes or ſym<g ref="char:EOLhyphen"/>ptomes there may be to diſcover this pure, and true in-comes of Chriſt, which is the cauſe of refreſhments in ſaints from all other. I anſwer, Theſe in-comes where they are, try all things, and cannot be made manifeſt by any thing without it ſelf: though it doth ſhew it ſelf in things, yet thoſe things doth not manifeſt it to us, or to the ſpirit where it dwells: though it ſelf manifeſts it ſelf by thoſe things to o<g ref="char:EOLhyphen"/>thers: But to us it doth manifeſt the truth of it ſelf, and the truth of thoſe things that flow from it: though its true that all ſouls that enjoy ſuch in-comes, are alwaies carried out to lie low before God, with ſweet heart endeerings to God, and with a ſweet upright walking before God; yet they do not know theſe in-comes by firſt knowing the truth of theſe effects, but they know the truth of both from it ſelf: In a word, whoſoever enjoyes theſe refreſhings, finds this thing that I now ſpeak of: whereſoever Chriſt comes in, ſelf goes out, though ſelf
+<pb n="110" facs="tcp:119519:59"/>appears more then ever, and ſtirs with more motion then ever; yet the ſoul is confounded in himſelf for be<g ref="char:EOLhyphen"/>ing ſelfiſh, and lies low in that un<g ref="char:EOLhyphen"/>derſtanding before God; All filling refreſhments, empties the ſoul of all ſelf fulneſs. But I ſay no more, One<g ref="char:EOLhyphen"/>ly the Lord give us to underſtand this, That ſouls poſſeſt with Chriſt, onely live by influences of Chriſt.</p>
+            <p>The Vſe is to inform us of the folly of men, <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> who ſtand and won<g ref="char:EOLhyphen"/>der that ſaints live ſo cheerfully be<g ref="char:EOLhyphen"/>fore God, though they undergo ſo much oppreſſion for God; Remem<g ref="char:EOLhyphen"/>ber <hi>they have bread that you knovv not of;</hi> Remember that Chriſt communicates light and life in a hidden way; There are ſecret diſtillings of Chriſts love, that is full of power, which produ<g ref="char:EOLhyphen"/>ceth more life, then your threatnings and ſcorns can produce death: Their <hi>bottle of oyl, and their barrel of meal</hi> in the uſe of it <hi>increaſes dayly:</hi> endeavour ye (o men) to detract from it; it's Chriſts way to communicate to it; If you endeavour to empty, and Chriſt fill, who (think you)
+<pb n="111" facs="tcp:119519:59"/>will bee weary firſt? and betwixt both who is he that gaines? It's a poore ſoule that lives by Chriſt, nay lives in Chriſt,<note place="margin">Col. 3.3.</note> he is one with Chriſt,<note place="margin">Rom. 8.33.34.</note> and cannot be de<g ref="char:EOLhyphen"/>ſtroyed, if Chriſt be maintained. And ſo much of that Conſectary.</p>
+            <p>In the laſt place the Conſectary is drawn from the laſt particular,<note place="margin">Conſect. 5.</note> It looks like him: <hi>Adam</hi> begot a ſonne like unto himſelfe; The <hi>Vnction</hi> and <hi>Spirit</hi> in Saints is of Chriſt, Its one with Chriſt, It lives by Chriſt, It lookes like Chriſt: And that is the cauſe why Saints love to behold Chriſt, and Chriſt loves to behold them: The ſoul cries out (Cant. 5.) <hi>Where is hee whom my ſoul loves?</hi> and Chriſt calls out (Cant. 2.) <hi>Let mee hear thy voice, Let me ſee thy Countenance, for ſweet is thy voice,</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>
+               </label> 
+               <hi>and thy countenance comly.</hi>
+            </p>
+            <p>If this be ſo, then conſider the condi<g ref="char:EOLhyphen"/>tion of Saints,<note place="margin">Cant. 2.14. &amp; 6.13.</note> and the condition of the world; The condition of Saints, Chriſt loves to behold them, and they love to behold Chriſt, They are like each other: The condition of the world, who think one day to delight in the beholdings of Chriſt, and are now oppreſſed in the be<g ref="char:EOLhyphen"/>holdings
+<pb n="112" facs="tcp:119519:60"/>holdings of Saints: doth the beams op<g ref="char:EOLhyphen"/>preſſe you, and will the body refreſh you? Is the ſtreams a ſcorn, and ſhall the fountain be a delight? It's a ſtrange thing, <hi>Iohn</hi> ſaith (1 <hi>Ioh.</hi> 4.20. (<hi>Hee that loveth not his brother vvhom he hath ſeen, hovv can hee love God, vvhom he hath not ſeen?</hi> But I ſay no more.</p>
+            <p>I ſhould now draw ſomething from the reaſons, and alſo make uſe of the point in generall; But I ſhall ſay onely thus much, <hi>Wiſedome is justified of her Children:</hi> Let Saints expect that Chriſt ſhould bee juſtified by no other: Let them not think it ſtrange,<note place="margin">
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Pet. 4.12.</note> if they be condemned by all others: The Phariſees cannot owne Truth, neither in <hi>Iohn</hi> nor in Chriſt: Do you think the world ſhould now affect Truth? It's alſo impoſſible; Therefore for Concluſion of all, remember that <hi>Wiſ<g ref="char:EOLhyphen"/>dom is justified of her Children.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
